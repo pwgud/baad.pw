@@ -1,0 +1,2 @@
+# redirects
+baad.pw redirects
