@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/tg"
+  to = "tg://resolve?domain=pugod"
+  status = 301
+  force = true
+
+  from = "/tgc"
+  to = "tg://resolve?domain=pukot"
+  status = 301
+  force = true
