@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "fab fa-twitch",
+    "name": "Twitch",
+    "link": "/twitch"
+  },
+  {
+    "icon": "fab fa-youtube",
+    "name": "YouTube",
+    "link": "/yt"
+  },
+  {
+    "icon": "fab fa-telegram-plane",
+    "name": "Telegram",
+    "link": "/tg"
+  },
+  {
+    "icon": "fab fa-discord",
+    "name": "Discord",
+    "link": "/ds"
+  },
+  {
+    "icon": "fab fa-vk",
+    "name": "VK",
+    "link": "/vk"
+  }
+]
