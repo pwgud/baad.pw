@@ -11,9 +11,3 @@
 	no-cache,
 	no-store,
 	must-revalidate'''
-  
-[build.processing]
-  skip_processing = false
-[build.processing.json]
-  bundle = true
-  minify = true
