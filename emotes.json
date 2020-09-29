@@ -1,0 +1,93 @@
+[
+  {
+    "name": "MODS",
+    "image": "https://cdn.betterttv.net/emote/5ec068a99af1ea16863b2fc7/1x",
+    "description": "Анимированая версия forsenChin'a. Используется что бы позвать модеров, или сказать что вы курочка. Если вы не поняли где свзять между этим эмоутом, и курочкой, предлагаю ознакомится с данным клипом https://www.youtube.com/watch?v=hkbKZfVfVI0&ab_channel=LivestreamFails"
+  },
+  {"name": "peepoChat",
+  "image": "https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/1x",
+  "description": "Счастливый пипо, печатающий на клавиатуре, можно использовать как эмоут, показывающий будто вы написали что то как ребёнок, например, хахаха стримир ты играешь в бравл стас? peepoChat"
+  },
+  {"name": "VanishMe",
+  "image": "https://cdn.betterttv.net/emote/5f1844386f37824466012d7b/1x",
+  "description": "Очень крутой эмоут, если вы напишете его в чате пакета, с вами произойдёт магия"
+  },
+  {
+    "name": "HEWILLNEVER",
+    "image": "https://cdn.betterttv.net/emote/5ecbe214f54be95e2a82ec79/1x",
+    "description": "Эмоут использующийся, когда стример сделал то, в чём вы сомневались что он сможет это сделать"
+  },
+  {
+    "name": "Spravedlivo",
+    "image": "https://cdn.betterttv.net/emote/5e22f168bca2995f13fbadd8/1x",
+    "description":"Справедливый орех, используется когда стример сказал что-то справедливое"
+  },
+  {
+    "name": "Spravekeepo",
+    "image": "https://cdn.betterttv.net/emote/5d83c78ad2458468c1f46a88/1x",
+    "description":"Два совмещённых смайла Spravedlivo и Keepo"
+  },
+  {
+    "name": "hackerCD",
+    "image": "https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/1x",
+    "description": "Доктор дизреспект, имитирующий зрителей форсена, при этом издавая звуки дельфина. Оригинальный клип: https://youtu.be/hmbbGp6P-kA "
+  },
+  {
+    "name": "WAYTOODERP",
+    "image": "https://cdn.betterttv.net/emote/5d7668cd592e4d15da213ffa/1x",
+    "description": "Этот эмоут образован от WAYTOODANK, но с эмоутом пвгуда"
+  },
+  {
+    "name": "KtoWho",
+    "image": "https://cdn.betterttv.net/emote/5db74bdbb537d747e37a8ef4/1x",
+    "description": "Эмоут с одноимённого мема, используется когда вы не понимаете о ком идёт речь"
+  },
+  {
+    "name": "WAYTOOSMART",
+    "image": "https://cdn.betterttv.net/emote/5e1ab7e088e62a5f14dc534d/1x",
+    "description": "Этот эмоут образован от эмоутов WAYTOODANK и 5Head, используется когда кто-то сказал что то очень умное"
+  },
+  {
+    "name": "Okayeg",
+    "image": "https://cdn.betterttv.net/emote/5de9cb6191129e77b47ca987/1x",
+    "description": "Данный эмоут образовался от эмоута Okayga, и благодаря eg в его названии, его в основном используют с вещами связанными с яйцами, или когда стример включает диктора в майнкрафте"
+  },
+  {
+    "name": "ElNoSabe",
+    "image": "https://cdn.betterttv.net/emote/5e9def0fd023b362f638aa07/1x",
+    "description": "Данный эмоут переводится как Он не знает, с испанского, и используется когда кто-то что-то не понимает"
+  },
+  {
+    "name": "forsenSmug",
+    "image": "https://cdn.betterttv.net/emote/5e108bc9b9741121048001e9/1x",
+    "description": "Самодовольное лицо форсена"
+  },
+  {
+    "name": "FeelsDonkMan",
+    "image": "https://cdn.betterttv.net/emote/5e442781e383e37d5d9d5809/1x",
+    "description": "Используется когда кто-то сказал что-то тупое"
+  },
+  {
+    "name": "Pooshka",
+    "image": "https://cdn.betterttv.net/emote/5eb2a491f5366f0397759444/1x",
+    "description": "Именной эмоут пушки (на самом деле это она так выглядит)"
+  },
+  {
+    "name": "PWGood",
+    "image": "https://cdn.betterttv.net/emote/5eb2c1b6f5366f0397759669/1x",
+    "description": "Это эмоут пвгуда, он так выглядит в жизни"
+  },
+  {
+    "name": "KEKVV",
+    "image": "https://cdn.betterttv.net/emote/5f6a1aba3277fd70b018b480/1x",
+    "description": "Эмоут из одноклассников, используется когда шутка очень (не)смешная"
+  },
+  {
+    "name": "pepeChat",
+    "image": "https://cdn.betterttv.net/emote/5f47e8acb2efd65d77e8f18d/1x",
+    "description": "Пиксельная версия peepoChat"
+  },
+  {
+    "name": "KEKG",
+    "image": "https://cdn.betterttv.net/emote/5f57987faa6fe06bfb6005e3/1x",
+    "description": "KEKVV записывающий что-то в свой блокнот(возможно, анекдот)"}]
