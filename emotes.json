@@ -640,11 +640,6 @@
     "description": "Ещё один pepeJAM, хорошо подходящий под трек \"U got that\""
   },
   {
-    "name": "monkaTOS",
-    "image": "https://cdn.betterttv.net/emote/5a7fd054b694db72eac253f4/3x",
-    "description": "monkaS с надписью TOS (Terms Of Service). Используется когда кто-то нарушает правила Twitch"
-  },
-  {
     "name": "billyReady",
     "image": "https://cdn.betterttv.net/emote/58763fcecb2b7248f8b9b0cf/3x",
     "description": "Билли рвущий футболку на себе. Используется как готовность. Например: Ну давай пвп, я готов billyReady"
