@@ -1,272 +1,275 @@
-[
-  {
+ {
     "name": "Kapp",
     "image": "https://cdn.frankerfacez.com/55c2fc5e38e679aab5ce5001e3e9fd34.png",
     "description": "Половинка каппы. Используется так же как каппа и в значении \"агакакскажешь\""
   },
   {
     "name": "KKona",
-    "image": "https://cdn.betterttv.net/emote/566ca04265dbbdab32ec054a/1x",
+    "image": "https://cdn.betterttv.net/emote/566ca04265dbbdab32ec054a/3x",
     "description": "Используется, когда упоминается что-то американское (США)"
   },
   {
     "name": "4HEad",
-    "image": "https://cdn.frankerfacez.com/emoticon/128247/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/128247/4",
     "description": "Искажённая и увеличенная версия 4Head. Обычно используется, когда упоминается слово «просто», или когда на стриме звучит смех"
   },
   {
     "name": "4House",
-    "image": "https://cdn.frankerfacez.com/emoticon/230495/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/230495/4",
     "description": "4HEad с крышей и дымоходом в верхней части головы. Он появился после стрима «Комедийной ночи» Форсена, где KLUB LUV пошутил примерно так:«Как кто-то может быть бездомным? Просто заимей дом. Просто получи дом». Используется при упоминании домов, бездомных, короче вы поняли, просто всё крутится вокруг этой шутки "
   },
   {
     "name": "D:",
-    "image": "https://cdn.betterttv.net/emote/55028cd2135896936880fdd7/1x",
+    "image": "https://cdn.betterttv.net/emote/55028cd2135896936880fdd7/3x",
     "description": "Называется гасп. Синее лицо с шокированным удивленным выражением лица. Его используют, когда кто-то говорит/делает что-то плохое или грубое"
   },
   {
     "name": "FeelsBadMan",
-    "image": "https://cdn.betterttv.net/emote/566c9fc265dbbdab32ec053b/1x",
+    "image": "https://cdn.betterttv.net/emote/566c9fc265dbbdab32ec053b/3x",
     "description": "Это грустная лягушка. Вы используете её, когда вам плохо, или грустно, или вы ностальгируете по каким-то временам"
   },
   {
     "name": "FeelsGoodMan",
-    "image": "https://cdn.betterttv.net/emote/566c9fde65dbbdab32ec053e/1x",
+    "image": "https://cdn.betterttv.net/emote/566c9fde65dbbdab32ec053e/3x",
     "description": "Вы используете этот эмоут, когда чувствуете себя хорошо"
   },
   {
     "name": "forsenScoots",
-    "image": "https://cdn.frankerfacez.com/emoticon/265650/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/265650/4",
     "description": "Лицо Форсена, изображающее что-то вроде «О, серьёзно? Это очень интересно»"
   },
   {
     "name": "LULW",
-    "image": "https://cdn.frankerfacez.com/emoticon/139407/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/139407/4",
     "description": "Используется так же как и LuL, когда вам смешно. Также используется в выражении «ПРАВДА LULW»."
   },
   {
     "name": "OMEGALUL",
-    "image": "https://cdn.frankerfacez.com/emoticon/128054/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/128054/4",
     "description": "По сути, это сильно искаженная эмоция LuL, доступная через FFZ. Используется всякий раз, когда что-то оказывается смешным/веселым"
   },
   {
     "name": "Kappa",
-    "image": "https://static-cdn.jtvnw.net/emoticons/v1/25/1.0",
+    "image": "https://static-cdn.jtvnw.net/emoticons/v1/25/3.0",
     "description": "Используется в чате как символ сарказма, шутки или легкого троллинга."
   },
   {
     "name": "5Chomp",
-    "image": "https://cdn.betterttv.net/emote/5e138d3d0550d42106b8e010/1x",
+    "image": "https://cdn.betterttv.net/emote/5e138d3d0550d42106b8e010/3x",
     "description": "OkayChomp с огромным мозгом. Используется, когда стример рассказывает что-то умное или поступает как гений, просчитав всё наперёд"
   },
   {
     "name": "PepeS",
-    "image": "https://cdn.betterttv.net/emote/59420c88023a013b50774872/1x",
+    "image": "https://cdn.betterttv.net/emote/59420c88023a013b50774872/3x",
     "description": "Потеющий от страха пиксельный пепе. Используется когда вам страшно"
   },
   {
     "name": "LurkPotato",
-    "image": "https://cdn.betterttv.net/emote/5d066f691c700a1c72e7518c/1x",
+    "image": "https://cdn.betterttv.net/emote/5d066f691c700a1c72e7518c/3x",
     "description": "Луркать — подглядывать, скрываться. Люди, которые смотрят стрим, но никогда не пишут в чат и вообще никак не показывают, что они существуют — луркают. Так же, как эта картошка. Иногда может использоваться просто когда вы/стример прячетесь от кого-то"
   },
   {
     "name": "forsenPls",
-    "image": "https://cdn.betterttv.net/emote/55e2096ea6fa8b261f81b12a/1x",
+    "image": "https://cdn.betterttv.net/emote/55e2096ea6fa8b261f81b12a/3x",
     "description": "Используется всегда, когда вам хочется танцевать"
   },
   {
     "name": "CrabPls",
-    "image": "https://cdn.betterttv.net/emote/5c2a4ddda402f16774559abe/1x",
+    "image": "https://cdn.betterttv.net/emote/5c2a4ddda402f16774559abe/3x",
     "description": "Обычно используется когда кто-то ушёл и ты рад этому. Например: CrabPls Стример ушёл CrabPls"
   },
   {
     "name": "peepoPooPoo",
-    "image": "https://cdn.betterttv.net/emote/5c3427a55752683d16e409d1/1x",
+    "image": "https://cdn.betterttv.net/emote/5c3427a55752683d16e409d1/3x",
     "description": "Можно использовать когда стример отошёл в туалет или просто при обсуждении разных туалетных тем."
   },
   {
     "name": "TriKool",
-    "image": "https://cdn.betterttv.net/emote/59a6d3dedccaf930aa8f3de1/1x",
+    "image": "https://cdn.betterttv.net/emote/59a6d3dedccaf930aa8f3de1/3x",
     "description": "Используется, когда слышен рэп."
   },
   {
     "name": "cmonBruh",
-    "image": "https://static-cdn.jtvnw.net/emoticons/v1/84608/1.0",
-    "description": "Глобальный твич эмоут, который используется (в основном в шутку), когда что-то выглядит как проявление расизма"
+    "image": "https://static-cdn.jtvnw.net/emoticons/v1/84608/3.0",
+    "description": "Глобальный Twitch эмоут, который используется (в основном в шутку), когда что-то выглядит как проявление расизма"
   },
   {
     "name": "FeelsWeirdMan",
-    "image": "https://cdn.betterttv.net/emote/5d937153b58d1868c2863570/1x",
+    "image": "https://cdn.betterttv.net/emote/5d937153b58d1868c2863570/3x",
     "description": "Используется, когда кто-то ведёт себя странно, некрасиво, в плохом смысле чудаковато, глупо."
   },
   {
     "name": "GlitchLurk",
-    "image": "https://cdn.betterttv.net/emote/5da60bc688078c4ac515dda0/1x",
+    "image": "https://cdn.betterttv.net/emote/5da60bc688078c4ac515dda0/3x",
     "description": "Символизирует администрацию Twitch, которая следит за каждым шагом каждого, и стримера, и зрителя, и готова забанить, как только появиться причина. Обычно используется так же, как монкаТОС — когда стример близок к тому, чтобы нарушить правила, или уже их нарушил."
   },
   {
     "name": "GuitarTime",
-    "image": "https://cdn.betterttv.net/emote/576befd71f520d6039622f7e/1x",
+    "image": "https://cdn.betterttv.net/emote/576befd71f520d6039622f7e/3x",
     "description": "Используется, когда слышна гитара. Обычно комбинируется с другими эмоутами, например: если трек грустный — FeelsBadMan GuitarTime, если играет что-то звучащее как кантри — KKool GuitarTime"
   },
   {
     "name": "KKool",
-    "image": "https://cdn.betterttv.net/emote/56c2cff2d9ec6bf744247bf1/1x",
+    "image": "https://cdn.betterttv.net/emote/56c2cff2d9ec6bf744247bf1/3x",
     "description": "Обычно используется когда слышна кантри музыка"
   },
   {
     "name": "HotPokket",
-    "image": "https://static-cdn.jtvnw.net/emoticons/v1/357/1.0",
+    "image": "https://static-cdn.jtvnw.net/emoticons/v1/357/3.0",
     "description": "Обычно используется при упоминании феминисток, SJW"
   },
   {
     "name": "peepoEZ",
-    "image": "https://cdn.frankerfacez.com/emoticon/296126/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/296126/4",
     "description": "Крутой пипо. Используется, когда сделать что-то было очень легко (ну или если ты чувствуешь себя крутым)"
   },
   {
     "name": ":tf:",
-    "image": "https://cdn.betterttv.net/emote/54fa8f1401e468494b85b537/1x",
+    "image": "https://cdn.betterttv.net/emote/54fa8f1401e468494b85b537/3x",
     "description": "Троллфейс. Бессмертный. Используется когда кто-то кого-то затроллил"
   },
   {
     "name": "ZULUL",
-    "image": "https://cdn.betterttv.net/emote/57b38e53d5472c5343820619/1x",
+    "image": "https://cdn.betterttv.net/emote/57b38e53d5472c5343820619/3x",
     "description": "Используется в основном когда упоминается Уганда или что-то связанное с афроамериканцами/Африкой, а так же в пастах, например V1 VON ZULUL — в подражание африканскому акценту и с отсылкой к зулусским воинам."
   },
   {
     "name": "monkaTOS",
-    "image": "https://cdn.betterttv.net/emote/5a7fd054b694db72eac253f4/1x",
+    "image": "https://cdn.betterttv.net/emote/5a7fd054b694db72eac253f4/3x",
     "description": "Используется, когда стример нарушает правила Twitch, или близок к тому, чтобы нарушить их. (TOS — Terms of Service — Условия использования, правила)."
   },
   {
     "name": "GachiPls",
-    "image": "https://cdn.betterttv.net/emote/58868aa5afc2ff756c3f495e/1x",
+    "image": "https://cdn.betterttv.net/emote/58868aa5afc2ff756c3f495e/3x",
     "description": "Эмоут, который используется при предсказывании чего-либо, или указывания на вероятность какого-либо события. Используется перед объектом предсказания.  Пример: GachiPls СМЕРТЬ "
   },
   {
     "name": "HACKERMANS",
-    "image": "https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x",
+    "image": "https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/3x",
     "description": "Используется, когда слышен звук клавиатуры, при упоминании хакеров, взломов и прочего."
   },
   {
     "name": "Clap",
-    "image": "https://cdn.betterttv.net/emote/55b6f480e66682f576dd94f5/1x",
+    "image": "https://cdn.betterttv.net/emote/55b6f480e66682f576dd94f5/3x",
     "description": "Хлопающие руки. Используются, когда слышны звуки хлопков, но чаще комбинируются с другими эмоутами, подчёркивая их значение. Например: 5Chomp Clap. Также используется всегда, когда вы просто хотите похлопать"
   },
   {
     "name": "forsenCD",
-    "image": "https://cdn.frankerfacez.com/emoticon/249060/1",
-    "description": "Однажды, в декабре 2017 года, Доктор Дизреспект запустил стрим, на котором рассказал о том, что изменял своей жене, что ему нужно сосредоточиться на семье и исправить ошибки, поэтому пару месяцев он не будет стримить. После этого в комьюнити Форсена (да и не только там) начали много шутить на эту тему. Некоторые люди просто донатили с сообщением \"D OMEGALUL C D OMEGALUL C\" (док), но TTS (text-to-speech) произносил это, ставя паузу не после C, а после омегалула, поэтому это звучало как \"CD OMEGALUL CD OMEGALUL\". Отсюда и пошло название эмоута. Сам эмоут forsenCD выглядит как forsenE, но с очками и усами Дока. После того как forsenCD сделали саб эмоутом форсена, в феврале 2018, ну ооочень много каналов начали также добавлять CD эмоуты на свои каналы (на сколько мне известно их было минимум 29). В мае 2018, после твита Дока о CD эмоутах, в котором он назвал всех, кто пользовался CD эмоутами, \"детьми ищущими внимания\", все CD эмоуты были удалены с твича (Как я понял, твич стафф обратили на всё это дело своё внимание именно из-за твита, потому что через день после твита CD эмоуты уже были удалены). Однако, уж слишком неплохие мемы получаются вокруг этого эпизода, поэтому forsenCD никуда не делся. Саб эмоутом он, конечно, быть перестал, но он переместился в FFZ/BTTV, и по-прежнему используется и сегодня. Чаще всего forsenCD используется с шутками про измены и  фразами с того самого стрима, на котором он рассказал о том, что изменял. <a href=\"https://youtu.be/HTOTBIZjK1M\">Посмотреть этот фрагмент</a>"
+    "image": "https://cdn.frankerfacez.com/emoticon/249060/4",
+    "description": "Однажды, в декабре 2017 года, Доктор Дизреспект запустил стрим, на котором рассказал о том, что изменял своей жене, что ему нужно сосредоточиться на семье и исправить ошибки, поэтому пару месяцев он не будет стримить. После этого в комьюнити Форсена (да и не только там) начали много шутить на эту тему. Некоторые люди просто донатили с сообщением \"D OMEGALUL C D OMEGALUL C\" (док), но TTS (text-to-speech) произносил это, ставя паузу не после C, а после омегалула, поэтому это звучало как \"CD OMEGALUL CD OMEGALUL\". Отсюда и пошло название эмоута. Сам эмоут forsenCD выглядит как forsenE, но с очками и усами Дока. После того как forsenCD сделали саб эмоутом форсена, в феврале 2018, ну ооочень много каналов начали также добавлять CD эмоуты на свои каналы (на сколько мне известно их было минимум 29). В мае 2018, после твита Дока о CD эмоутах, в котором он назвал всех, кто пользовался CD эмоутами, \"детьми ищущими внимания\", все CD эмоуты были удалены с Twitch (Как я понял, администрация обратила на всё это дело своё внимание именно из-за твита, потому что через день после твита CD эмоуты уже были удалены). Однако, уж слишком неплохие мемы получаются вокруг этого эпизода, поэтому forsenCD никуда не делся. Саб эмоутом он, конечно, быть перестал, но он переместился в FFZ/BTTV, и по-прежнему используется и сегодня. Чаще всего forsenCD используется с шутками про измены и  фразами с того самого стрима, на котором он рассказал о том, что изменял. <a href=\"https://youtu.be/HTOTBIZjK1M\">Посмотреть этот фрагмент</a>."
   },
   {
     "name": "pepeCD",
-    "image": "https://cdn.betterttv.net/emote/5b339e387d878d04acd5a1c1/1x",
+    "image": "https://cdn.betterttv.net/emote/5b339e387d878d04acd5a1c1/3x",
     "description": "Пепе, с усами, очками и одеждой Дока. Эмоут используется, когда звучит музыка, похожая на ту, что играет на стримах Дизреспекта (Ретровейв)."
   },
   {
     "name": "ppHop",
-    "image": "https://cdn.betterttv.net/emote/5a9578d6dcf3205f57ba294f/1x",
+    "image": "https://cdn.betterttv.net/emote/5a9578d6dcf3205f57ba294f/3x",
     "description": "Прыгающий туда-сюда pepeL, обычно используется когда кто-то прыгает из стороны в сторону или когда играет медленная музыка, в такт которой можно попрыгать"
   },
   {
     "name": "ManChicken",
-    "image": "https://cdn.frankerfacez.com/emoticon/4/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/4/4",
     "description": "⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken"
   },
   {
     "name": "widepeepoHappy",
-    "image": "https://cdn.frankerfacez.com/emoticon/270930/1",
+    "image": "https://cdn.frankerfacez.com/emoticon/270930/4",
     "description": "Используется, когда вы видите что-то очень милое или счастливое"
   },
   {
     "name": "forsenWC",
-    "image": "https://cdn.betterttv.net/emote/5d0076c7aae4851c803cbc51/1x",
+    "image": "https://cdn.betterttv.net/emote/5d0076c7aae4851c803cbc51/3x",
     "description": "Эмоут является отсылкой на E3 IRL стрим Доктора Дизреспекта, когда по какой-то причине он решил застримить людей в общественном туалете. Не один, не два, а четыре раза. После этого его забанили"
   },
   {
     "name": "MODS",
-    "image": "https://cdn.betterttv.net/emote/5ec068a99af1ea16863b2fc7/1x",
-    "description": "Анимированая версия forsenChin\"a. Используется что бы позвать модеров, или сказать что вы курочка. Если вы не поняли где связь между этим эмоутом, и курочкой, предлагаю <a href=\"https://www.youtube.com/watch?v=hkbKZfVfVI0&ab_channel=LivestreamFails\">ознакомится с данным клипом</a>"
+    "image": "https://cdn.betterttv.net/emote/5ec068a99af1ea16863b2fc7/3x",
+    "description": "Анимированая версия forsenChin\"a. Используется что бы позвать модеров, или сказать что вы курочка. Если вы не поняли где связь между этим эмоутом, и курочкой, предлагаю <a href=\"https://www.youtube.com/watch?v=hkbKZfVfVI0&ab_channel=LivestreamFails\">ознакомиться с данным клипом</a>"
   },
   {
     "name": "peepoChat",
-    "image": "https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/1x",
+    "image": "https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/3x",
     "description": "Счастливый пипо, печатающий на клавиатуре, можно использовать как эмоут, показывающий будто вы написали что-то как ребёнок, например \"хахаха стримир ты играешь в бравл стас? peepoChat\""
   },
   {
     "name": "VanishMe",
-    "image": "https://cdn.betterttv.net/emote/5f1844386f37824466012d7b/1x",
+    "image": "https://cdn.betterttv.net/emote/5f1844386f37824466012d7b/3x",
     "description": "Очень крутой эмоут, если вы напишете его в чате пакета, с вами произойдёт магия"
   },
   {
     "name": "Spravedlivo",
-    "image": "https://cdn.betterttv.net/emote/5e22f168bca2995f13fbadd8/1x",
+    "image": "https://cdn.betterttv.net/emote/5e22f168bca2995f13fbadd8/3x",
     "description": "Справедливый орех, используется когда стример сказал что-то справедливое"
   },
   {
     "name": "Spravekeepo",
-    "image": "https://cdn.betterttv.net/emote/5d83c78ad2458468c1f46a88/1x",
+    "image": "https://cdn.betterttv.net/emote/5d83c78ad2458468c1f46a88/3x",
     "description": "Два совмещённых смайла Spravedlivo и Keepo"
   },
   {
     "name": "hackerCD",
-    "image": "https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/1x",
+    "image": "https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/3x",
     "description": "Доктор Дизреспект, имитирующий зрителей Форсена, при этом издавая звуки дельфина. <a href=\"https://youtu.be/hmbbGp6P-kA\">Оригинальный клип</a>."
   },
   {
     "name": "WAYTOODERP",
-    "image": "https://cdn.betterttv.net/emote/5d7668cd592e4d15da213ffa/1x",
+    "image": "https://cdn.betterttv.net/emote/5d7668cd592e4d15da213ffa/3x",
     "description": "Этот эмоут образован от WAYTOODANK, но с эмоутом Пвгуда"
   },
   {
     "name": "KtoWho",
-    "image": "https://cdn.betterttv.net/emote/5db74bdbb537d747e37a8ef4/1x",
+    "image": "https://cdn.betterttv.net/emote/5db74bdbb537d747e37a8ef4/3x",
     "description": "Эмоут с одноимённого мема, используется когда вы не понимаете о ком идёт речь"
   },
   {
     "name": "WAYTOOSMART",
-    "image": "https://cdn.betterttv.net/emote/5e1ab7e088e62a5f14dc534d/1x",
+    "image": "https://cdn.betterttv.net/emote/5e1ab7e088e62a5f14dc534d/3x",
     "description": "Этот эмоут образован от эмоутов WAYTOODANK и 5Head, используется когда кто-то сказал что-то очень умное"
   },
   {
     "name": "Okayeg",
-    "image": "https://cdn.betterttv.net/emote/5de9cb6191129e77b47ca987/1x",
+    "image": "https://cdn.betterttv.net/emote/5de9cb6191129e77b47ca987/3x",
     "description": "Данный эмоут образовался от эмоута Okayga, и благодаря eg в его названии, его в основном используют с вещами связанными с яйцами, или когда стример включает диктора в майнкрафте"
   },
   {
     "name": "forsenSmug",
-    "image": "https://cdn.betterttv.net/emote/5e108bc9b9741121048001e9/1x",
+    "image": "https://cdn.betterttv.net/emote/5e108bc9b9741121048001e9/3x",
     "description": "Самодовольное лицо Форсена"
   },
   {
     "name": "FeelsDonkMan",
-    "image": "https://cdn.betterttv.net/emote/5e442781e383e37d5d9d5809/1x",
+    "image": "https://cdn.betterttv.net/emote/5e442781e383e37d5d9d5809/3x",
     "description": "Используется когда кто-то сказал что-то тупое"
   },
   {
     "name": "Pooshka",
-    "image": "https://cdn.betterttv.net/emote/5eb2a491f5366f0397759444/1x",
+    "image": "https://cdn.betterttv.net/emote/5eb2a491f5366f0397759444/3x",
     "description": "Именной эмоут Пушки (на самом деле это она так выглядит)"
   },
   {
     "name": "PWGood",
-    "image": "https://cdn.betterttv.net/emote/608e6d3939b5010444d0a2a8/1x",
+    "image": "https://cdn.betterttv.net/emote/608e6d3939b5010444d0a2a8/3x",
     "description": "Это эмоут Пвгуда, он так выглядит в жизни"
   },
   {
+    "name": "Rilaveon",
+    "image": "https://cdn.betterttv.net/emote/6044d3ad306b602acc5987b9/3x",
+    "description": "Это Рилавеон (он в кустах следит за агентом США, не мешайте)"
+  },
+  {
     "name": "KEKVV",
-    "image": "https://cdn.betterttv.net/emote/5f6a1aba3277fd70b018b480/1x",
+    "image": "https://cdn.betterttv.net/emote/5f6a1aba3277fd70b018b480/3x",
     "description": "Эмоут из Одноклассников, используется когда шутка очень (не)смешная"
   },
   {
     "name": "pepeChat",
-    "image": "https://cdn.betterttv.net/emote/5f47e8acb2efd65d77e8f18d/1x",
+    "image": "https://cdn.betterttv.net/emote/5f47e8acb2efd65d77e8f18d/3x",
     "description": "Пиксельная версия peepoChat"
   },
   {
     "name": "KEKG",
-    "image": "https://cdn.betterttv.net/emote/5f57987faa6fe06bfb6005e3/1x",
+    "image": "https://cdn.betterttv.net/emote/5f57987faa6fe06bfb6005e3/3x",
     "description": "KEKVV записывающий что-то в свой блокнот (возможно, анекдот)"
   }
-]
