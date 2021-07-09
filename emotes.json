@@ -617,7 +617,7 @@
   {
     "name": "gachiHop",
     "image": "https://cdn.betterttv.net/emote/571e5ae5ef2b92040a9682c7/3x",
-    "description": "gachiGasm использующийся когда он прыгает в такт музыке"
+    "description": "gachiGASM использующийся когда он прыгает в такт музыке"
   },
   {
     "name": "forsenSWA",
@@ -647,7 +647,7 @@
   {
     "name": "gachiHYPER",
     "image": "https://cdn.betterttv.net/emote/59143b496996b360ff9b807c/3x",
-    "description": "Трясущийся gachiGasm, используется когда какой-то мужчина кричит"
+    "description": "Трясущийся gachiGASM, используется когда какой-то мужчина кричит"
   },
   {
     "name": "PotatoTriggered",
@@ -1168,5 +1168,10 @@
     "name": "YEP",
     "image": "https://cdn.frankerfacez.com/emoticon/614425/4",
     "description": "Okayga названная YEP, опять же эмоут назван специально как другой эмоут, но смысл у них похожий. Назван он так, из-за того что оригинальный YEP русское комьюнити сликом оверюзило. Используется когда вы видите или упоминается пенис"
+  },
+  {
+    "name": "gachiGASM",
+    "image": "https://cdn.frankerfacez.com/emote/320527/4",
+    "description": "Лицо Билли Херингтона снимавшегося в гачимучи, используйте когда вы слышите мужские стоны"
   }
 ]
