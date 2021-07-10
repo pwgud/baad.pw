@@ -1,1172 +1,1406 @@
 [
     {
         "name": "Kapp",
-        "image": "https://cdn.frankerfacez.com/55c2fc5e38e679aab5ce5001e3e9fd34.png",
+        "id": "218860",
+        "type": "ffz",
         "description": "Половинка каппы. Используется так же как каппа и в значении \"агакакскажешь\""
     },
     {
         "name": "KKona",
-        "image": "https://cdn.betterttv.net/emote/566ca04265dbbdab32ec054a/3x",
+        "id": "566ca04265dbbdab32ec054a",
+        "type": "bttv",
         "description": "Используется, когда упоминается что-то американское (США)"
     },
     {
         "name": "4HEader",
-        "image": "https://cdn.frankerfacez.com/emoticon/165784/4",
+        "id": "165784",
+        "type": "ffz",
         "description": "Искажённая и увеличенная версия 4Head. Обычно используется, когда упоминается слово «просто», или когда на стриме звучит смех"
     },
     {
         "name": "4House",
-        "image": "https://cdn.frankerfacez.com/emoticon/230495/4",
+        "id": "230495",
+        "type": "ffz",
         "description": "4HEad с крышей и дымоходом в верхней части головы. Он появился после стрима «Комедийной ночи» Форсена, где KLUB LUV пошутил примерно так:«Как кто-то может быть бездомным? Просто заимей дом. Просто получи дом». Используется при упоминании домов, бездомных, короче вы поняли, просто всё крутится вокруг этой шутки "
     },
     {
         "name": "D:",
-        "image": "https://cdn.betterttv.net/emote/55028cd2135896936880fdd7/3x",
+        "id": "55028cd2135896936880fdd7",
+        "type": "bttv",
         "description": "Называется гасп. Синее лицо с шокированным удивленным выражением лица. Его используют, когда кто-то говорит/делает что-то плохое или грубое"
     },
     {
         "name": "FeelsBadMan",
-        "image": "https://cdn.betterttv.net/emote/566c9fc265dbbdab32ec053b/3x",
+        "id": "566c9fc265dbbdab32ec053b",
+        "type": "bttv",
         "description": "Это грустная лягушка. Вы используете её, когда вам плохо, или грустно, или вы ностальгируете по каким-то временам"
     },
     {
         "name": "FeelsGoodMan",
-        "image": "https://cdn.betterttv.net/emote/566c9fde65dbbdab32ec053e/3x",
+        "id": "566c9fde65dbbdab32ec053e",
+        "type": "bttv",
         "description": "Вы используете этот эмоут, когда чувствуете себя хорошо"
     },
     {
         "name": "forsenScoots",
-        "image": "https://cdn.frankerfacez.com/emoticon/265650/4",
+        "id": "265650",
+        "type": "ffz",
         "description": "Лицо Форсена, изображающее что-то вроде «О, серьёзно? Это очень интересно»"
     },
     {
         "name": "LULW",
-        "image": "https://cdn.frankerfacez.com/emoticon/139407/4",
+        "id": "139407",
+        "type": "ffz",
         "description": "Используется так же как и LuL, когда вам смешно. Также используется в выражении «ПРАВДА LULW»."
     },
     {
         "name": "OMEGALUL",
-        "image": "https://cdn.frankerfacez.com/emoticon/128054/4",
+        "id": "128054",
+        "type": "ffz",
         "description": "По сути, это сильно искаженная эмоция LuL, доступная через FFZ. Используется всякий раз, когда что-то оказывается смешным/веселым"
     },
     {
         "name": "Kappa",
-        "image": "https://static-cdn.jtvnw.net/emoticons/v2/25/default/dark/3.0",
+        "id": "25",
+        "type": "global",
         "description": "Используется в чате как символ сарказма, шутки или легкого троллинга."
     },
     {
         "name": "5Chomp",
-        "image": "https://cdn.betterttv.net/emote/5e138d3d0550d42106b8e010/3x",
+        "id": "5e138d3d0550d42106b8e010",
+        "type": "bttv",
         "description": "OkayChomp с огромным мозгом. Используется, когда стример рассказывает что-то умное или поступает как гений, просчитав всё наперёд"
     },
     {
         "name": "PepeS",
-        "image": "https://cdn.betterttv.net/emote/59420c88023a013b50774872/3x",
+        "id": "59420c88023a013b50774872",
+        "type": "bttv",
         "description": "Потеющий от страха пиксельный пепе. Используется когда вам страшно"
     },
     {
         "name": "LurkPotato",
-        "image": "https://cdn.betterttv.net/emote/5d066f691c700a1c72e7518c/3x",
+        "id": "5d066f691c700a1c72e7518c",
+        "type": "bttv",
         "description": "Луркать — подглядывать, скрываться. Люди, которые смотрят стрим, но никогда не пишут в чат и вообще никак не показывают, что они существуют — луркают. Так же, как эта картошка. Иногда может использоваться просто когда вы/стример прячетесь от кого-то"
     },
     {
         "name": "forsenPls",
-        "image": "https://cdn.betterttv.net/emote/55e2096ea6fa8b261f81b12a/3x",
+        "id": "55e2096ea6fa8b261f81b12a",
+        "type": "bttv",
         "description": "Используется всегда, когда вам хочется танцевать"
     },
     {
         "name": "CrabPls",
-        "image": "https://cdn.betterttv.net/emote/5c2a4ddda402f16774559abe/3x",
+        "id": "5c2a4ddda402f16774559abe",
+        "type": "bttv",
         "description": "Обычно используется когда кто-то ушёл и ты рад этому. Например: CrabPls Стример ушёл CrabPls"
     },
     {
         "name": "peepoPooPoo",
-        "image": "https://cdn.betterttv.net/emote/5c3427a55752683d16e409d1/3x",
+        "id": "5c3427a55752683d16e409d1",
+        "type": "bttv",
         "description": "Можно использовать когда стример отошёл в туалет или просто при обсуждении разных туалетных тем."
     },
     {
         "name": "TriKool",
-        "image": "https://cdn.betterttv.net/emote/59a6d3dedccaf930aa8f3de1/3x",
+        "id": "59a6d3dedccaf930aa8f3de1",
+        "type": "bttv",
         "description": "Используется, когда слышен рэп."
     },
     {
         "name": "cmonBruh",
-        "image": "https://static-cdn.jtvnw.net/emoticons/v2/84608/default/dark/3.0",
+        "id": "84608",
+        "type": "global",
         "description": "Глобальный Twitch эмоут, который используется (в основном в шутку), когда что-то выглядит как проявление расизма"
     },
     {
         "name": "FeelsWeirdMan",
-        "image": "https://cdn.betterttv.net/emote/5d937153b58d1868c2863570/3x",
+        "id": "5d937153b58d1868c2863570",
+        "type": "bttv",
         "description": "Используется, когда кто-то ведёт себя странно, некрасиво, в плохом смысле чудаковато, глупо."
     },
     {
         "name": "GlitchLurk",
-        "image": "https://cdn.betterttv.net/emote/5da60bc688078c4ac515dda0/3x",
+        "id": "5da60bc688078c4ac515dda0",
+        "type": "bttv",
         "description": "Символизирует администрацию Twitch, которая следит за каждым шагом каждого, и стримера, и зрителя, и готова забанить, как только появиться причина. Обычно используется так же, как монкаТОС — когда стример близок к тому, чтобы нарушить правила, или уже их нарушил."
     },
     {
         "name": "GuitarTime",
-        "image": "https://cdn.betterttv.net/emote/576befd71f520d6039622f7e/3x",
+        "id": "576befd71f520d6039622f7e",
+        "type": "bttv",
         "description": "Используется, когда слышна гитара. Обычно комбинируется с другими эмоутами, например: если трек грустный — FeelsBadMan GuitarTime, если играет что-то звучащее как кантри — KKool GuitarTime"
     },
     {
         "name": "KKool",
-        "image": "https://cdn.betterttv.net/emote/56c2cff2d9ec6bf744247bf1/3x",
+        "id": "56c2cff2d9ec6bf744247bf1",
+        "type": "bttv",
         "description": "Обычно используется когда слышна кантри музыка"
     },
     {
         "name": "HotPokket",
-        "image": "https://static-cdn.jtvnw.net/emoticons/v2/357/default/dark/3.0",
+        "id": "357",
+        "type": "global",
         "description": "Обычно используется при упоминании феминисток, SJW"
     },
     {
         "name": ":tf:",
-        "image": "https://cdn.betterttv.net/emote/54fa8f1401e468494b85b537/3x",
+        "id": "54fa8f1401e468494b85b537",
+        "type": "bttv",
         "description": "Троллфейс. Бессмертный. Используется когда кто-то кого-то затроллил"
     },
     {
         "name": "ZULUL",
-        "image": "https://cdn.betterttv.net/emote/57b38e53d5472c5343820619/3x",
+        "id": "57b38e53d5472c5343820619",
+        "type": "bttv",
         "description": "Используется в основном когда упоминается Уганда или что-то связанное с афроамериканцами/Африкой, а так же в пастах, например V1 VON ZULUL — в подражание африканскому акценту и с отсылкой к зулусским воинам."
     },
     {
         "name": "monkaTOS",
-        "image": "https://cdn.betterttv.net/emote/5a7fd054b694db72eac253f4/3x",
+        "id": "5a7fd054b694db72eac253f4",
+        "type": "bttv",
         "description": "Используется, когда стример нарушает правила Twitch, или близок к тому, чтобы нарушить их. (TOS — Terms of Service — Условия использования, правила)."
     },
     {
         "name": "GachiPls",
-        "image": "https://cdn.betterttv.net/emote/58868aa5afc2ff756c3f495e/3x",
+        "id": "58868aa5afc2ff756c3f495e",
+        "type": "bttv",
         "description": "Эмоут, который используется при предсказывании чего-либо, или указывания на вероятность какого-либо события. Используется перед объектом предсказания.  Пример: GachiPls СМЕРТЬ "
     },
     {
         "name": "HACKERMANS",
-        "image": "https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/3x",
+        "id": "5b490e73cf46791f8491f6f4",
+        "type": "bttv",
         "description": "Используется, когда слышен звук клавиатуры, при упоминании хакеров, взломов и прочего."
     },
     {
         "name": "Clap",
-        "image": "https://cdn.betterttv.net/emote/55b6f480e66682f576dd94f5/3x",
+        "id": "55b6f480e66682f576dd94f5",
+        "type": "bttv",
         "description": "Хлопающие руки. Используются, когда слышны звуки хлопков, но чаще комбинируются с другими эмоутами, подчёркивая их значение. Например: 5Chomp Clap. Также используется всегда, когда вы просто хотите похлопать"
     },
     {
         "name": "forsenCD",
-        "image": "https://cdn.frankerfacez.com/emoticon/249060/4",
+        "id": "249060",
+        "type": "ffz",
         "description": "Однажды, в декабре 2017 года, Доктор Дизреспект запустил стрим, на котором рассказал о том, что изменял своей жене, что ему нужно сосредоточиться на семье и исправить ошибки, поэтому пару месяцев он не будет стримить. После этого в комьюнити Форсена (да и не только там) начали много шутить на эту тему. Некоторые люди просто донатили с сообщением \"D OMEGALUL C D OMEGALUL C\" (док), но TTS (text-to-speech) произносил это, ставя паузу не после C, а после омегалула, поэтому это звучало как \"CD OMEGALUL CD OMEGALUL\". Отсюда и пошло название эмоута. Сам эмоут forsenCD выглядит как forsenE, но с очками и усами Дока. После того как forsenCD сделали саб эмоутом форсена, в феврале 2018, ну ооочень много каналов начали также добавлять CD эмоуты на свои каналы (на сколько мне известно их было минимум 29). В мае 2018, после твита Дока о CD эмоутах, в котором он назвал всех, кто пользовался CD эмоутами, \"детьми ищущими внимания\", все CD эмоуты были удалены с Twitch (Предположительно, Twitch Staff обратили на всё это дело своё внимание именно из-за твита, потому что через день после твита CD эмоуты уже были удалены). Однако, уж слишком неплохие мемы получаются вокруг этого эпизода, поэтому forsenCD никуда не делся. Саб эмоутом он, конечно, быть перестал, но он переместился в FFZ/BTTV, и по-прежнему используется и сегодня. Чаще всего forsenCD используется с шутками про измены и  фразами с того самого стрима, на котором он рассказал о том, что изменял. <a href=\"https://youtu.be/HTOTBIZjK1M\">Посмотреть этот фрагмент</a>"
     },
     {
         "name": "ppHop",
-        "image": "https://cdn.betterttv.net/emote/5a9578d6dcf3205f57ba294f/3x",
+        "id": "5a9578d6dcf3205f57ba294f",
+        "type": "bttv",
         "description": "Прыгающий туда-сюда pepeL, обычно используется когда кто-то прыгает из стороны в сторону или когда играет медленная музыка, в такт которой можно попрыгать"
     },
     {
         "name": "ManChicken",
-        "image": "https://cdn.frankerfacez.com/emoticon/4/4",
+        "id": "4",
+        "type": "ffz",
         "description": "⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken ⎎⎍☊☍ ⊬⍜⎍ ⋏⊬⋔⋏ ManChicken"
     },
     {
         "name": "peepoHappy",
-        "image": "https://cdn.frankerfacez.com/emoticon/228449/4",
+        "id": "228449",
+        "type": "ffz",
         "description": "Счастливый пипо"
     },
     {
         "name": "widepeepoHappy",
-        "image": "https://cdn.frankerfacez.com/emoticon/270930/4",
+        "id": "270930",
+        "type": "ffz",
         "description": "Используется, когда вы видите что-то очень милое или счастливое"
     },
     {
         "name": "MODS",
-        "image": "https://cdn.betterttv.net/emote/60217cb4cc5c150246d90cd4/3x",
+        "id": "60217cb4cc5c150246d90cd4",
+        "type": "bttv",
         "description": "Форсен, берущийся за голову, в очередной раз зовёт модеров, чтобы они забанили нарушителя в чате"
     },
     {
         "name": "peepoChat",
-        "image": "https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/3x",
+        "id": "5e1bd08688e62a5f14dc6316",
+        "type": "bttv",
         "description": "Счастливый пипо, печатающий на клавиатуре, можно использовать как эмоут, показывающий будто вы написали что-то как ребёнок, например \"хахаха стримир ты играешь в бравл стас? peepoChat\""
     },
     {
         "name": "VanishMe",
-        "image": "https://cdn.betterttv.net/emote/5f1844386f37824466012d7b/3x",
+        "id": "5f1844386f37824466012d7b",
+        "type": "bttv",
         "description": "Очень крутой эмоут, если вы напишете его в чате пакета, с вами произойдёт магия"
     },
     {
         "name": "Spravedlivo",
-        "image": "https://cdn.betterttv.net/emote/5e22f168bca2995f13fbadd8/3x",
+        "id": "5e22f168bca2995f13fbadd8",
+        "type": "bttv",
         "description": "Справедливый орех, используется когда стример сказал что-то справедливое"
     },
     {
         "name": "Spravekeepo",
-        "image": "https://cdn.betterttv.net/emote/5d83c78ad2458468c1f46a88/3x",
+        "id": "5d83c78ad2458468c1f46a88",
+        "type": "bttv",
         "description": "Два совмещённых смайла Spravedlivo и Keepo"
     },
     {
         "name": "NeSpravedlivo",
-        "image": "https://cdn.betterttv.net/emote/5d5c3e2c22f52e1d9b41a504/3x",
+        "id": "5d5c3e2c22f52e1d9b41a504",
+        "type": "bttv",
         "description": "Грустный орех"
     },
     {
         "name": "hackerCD",
-        "image": "https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/3x",
+        "id": "5d82600ec0652668c9e4e2f2",
+        "type": "bttv",
         "description": "Доктор Дизреспект, имитирующий зрителей Форсена, при этом издавая звуки дельфина. <a href=\"https://youtu.be/hmbbGp6P-kA\">Оригинальный клип</a>."
     },
     {
         "name": "WAYTOODERP",
-        "image": "https://cdn.betterttv.net/emote/5d7668cd592e4d15da213ffa/3x",
+        "id": "5d7668cd592e4d15da213ffa",
+        "type": "bttv",
         "description": "Этот эмоут образован от WAYTOODANK, но с эмоутом Пвгуда"
     },
     {
         "name": "KtoWho",
-        "image": "https://cdn.betterttv.net/emote/5db74bdbb537d747e37a8ef4/3x",
+        "id": "5db74bdbb537d747e37a8ef4",
+        "type": "bttv",
         "description": "Эмоут с одноимённого мема, используется когда вы не понимаете о ком идёт речь"
     },
     {
         "name": "WAYTOOSMART",
-        "image": "https://cdn.betterttv.net/emote/5e1ab7e088e62a5f14dc534d/3x",
+        "id": "5e1ab7e088e62a5f14dc534d",
+        "type": "bttv",
         "description": "Этот эмоут образован от эмоутов WAYTOODANK и 5Head, используется когда кто-то сказал что-то очень умное"
     },
     {
         "name": "Okayeg",
-        "image": "https://cdn.betterttv.net/emote/5de9cb6191129e77b47ca987/3x",
+        "id": "5de9cb6191129e77b47ca987",
+        "type": "bttv",
         "description": "Данный эмоут образовался от эмоута Okayga, и благодаря eg в его названии, его в основном используют с вещами связанными с яйцами, или когда стример включает диктора в майнкрафте"
     },
     {
         "name": "forsenSmug",
-        "image": "https://cdn.betterttv.net/emote/5e108bc9b9741121048001e9/3x",
+        "id": "5e108bc9b9741121048001e9",
+        "type": "bttv",
         "description": "Самодовольное лицо Форсена"
     },
     {
         "name": "FeelsDonkMan",
-        "image": "https://cdn.betterttv.net/emote/5e442781e383e37d5d9d5809/3x",
+        "id": "5e442781e383e37d5d9d5809",
+        "type": "bttv",
         "description": "Используется когда кто-то сказал что-то тупое"
     },
     {
         "name": "Pooshka",
-        "image": "https://cdn.betterttv.net/emote/5eb2a491f5366f0397759444/3x",
+        "id": "5eb2a491f5366f0397759444",
+        "type": "bttv",
         "description": "Именной эмоут Пушки (на самом деле это она так выглядит)"
     },
     {
         "name": "PWGood",
-        "image": "https://cdn.betterttv.net/emote/608e6d3939b5010444d0a2a8/3x",
+        "id": "608e6d3939b5010444d0a2a8",
+        "type": "bttv",
         "description": "Это эмоут Пвгуда, он так выглядит в жизни"
     },
     {
         "name": "Rilaveon",
-        "image": "https://cdn.betterttv.net/emote/6044d3ad306b602acc5987b9/3x",
+        "id": "6044d3ad306b602acc5987b9",
+        "type": "bttv",
         "description": "Это Рилавеон (он в кустах следит за агентом США, не мешайте)"
     },
     {
         "name": "KEKVV",
-        "image": "https://cdn.betterttv.net/emote/5f6a1aba3277fd70b018b480/3x",
+        "id": "5f6a1aba3277fd70b018b480",
+        "type": "bttv",
         "description": "Эмоут из Одноклассников, используется когда шутка очень (не)смешная"
     },
     {
         "name": "pepeChat",
-        "image": "https://cdn.betterttv.net/emote/5f47e8acb2efd65d77e8f18d/3x",
+        "id": "5f47e8acb2efd65d77e8f18d",
+        "type": "bttv",
         "description": "Пиксельная версия peepoChat"
     },
     {
         "name": "KEKG",
-        "image": "https://cdn.betterttv.net/emote/5f57987faa6fe06bfb6005e3/3x",
+        "id": "5f57987faa6fe06bfb6005e3",
+        "type": "bttv",
         "description": "KEKVV записывающий что-то в свой блокнот (возможно, анекдот)"
     },
     {
         "name": "KEKW",
-        "image": "https://cdn.betterttv.net/emote/5f7c73f5e9c9344a8f352271/3x",
+        "id": "5f7c73f5e9c9344a8f352271",
+        "type": "bttv",
         "description": "Эмоут луны (страшный) но специально названный так, что бы пользователи этого оригинального смайла обкакались"
     },
     {
         "name": "LOLE",
-        "image": "https://cdn.betterttv.net/emote/5f6a1ace8d3e1b709d8e7db4/3x",
+        "id": "5f6a1ace8d3e1b709d8e7db4",
+        "type": "bttv",
         "description": "Ещё один эмоут из одноклассников, используется в случае легкомыслия"
     },
     {
         "name": "KEKWait",
-        "image": "https://cdn.betterttv.net/emote/5f6a1ae0b61d3570a06f5078/3x",
+        "id": "5f6a1ae0b61d3570a06f5078",
+        "type": "bttv",
         "description": "Опять же эмоут из одноклассников, и опять специально названный как один из популярных эмоутов"
     },
     {
         "name": "peepoRain",
-        "image": "https://cdn.betterttv.net/emote/60d1c57d8ed8b373e4217bee/3x",
+        "id": "60d1c57d8ed8b373e4217bee",
+        "type": "bttv",
         "description": "Okayga стоящая под дождём"
     },
     {
         "name": "peepoRun",
-        "image": "https://cdn.betterttv.net/emote/5fd783abc158a13494c3d73a/3x",
+        "id": "5fd783abc158a13494c3d73a",
+        "type": "bttv",
         "description": "Зомби верхом на свинье, бегущий куда-то"
     },
     {
         "name": "ppFall",
-        "image": "https://cdn.betterttv.net/emote/5faa04e34dfba164402986d2/3x",
+        "id": "5faa04e34dfba164402986d2",
+        "type": "bttv",
         "description": "Падающий pepeL"
     },
     {
         "name": "AlienDance",
-        "image": "https://cdn.betterttv.net/emote/60b13dfcf8b3f62601c34b9f/3x",
+        "id": "60b13dfcf8b3f62601c34b9f",
+        "type": "bttv",
         "description": "Танцующий инопланетянин"
     },
     {
         "name": "AlienPls",
-        "image": "https://cdn.betterttv.net/emote/5e9d8af27e090362f8b0ce95/3x",
+        "id": "5e9d8af27e090362f8b0ce95",
+        "type": "bttv",
         "description": "Ещё один танцующий инопланетянин"
     },
     {
         "name": "AlienPls2",
-        "image": "https://cdn.betterttv.net/emote/5f5e23c13769246c0321af5a/3x",
+        "id": "5f5e23c13769246c0321af5a",
+        "type": "bttv",
         "description": "Пвгуд, танцующий стандартный танец из фортнайта (он не фортнайтер)"
     },
     {
         "name": "AlienPls3",
-        "image": "https://cdn.betterttv.net/emote/607d5f6639b5010444d022a0/3x",
+        "id": "607d5f6639b5010444d022a0",
+        "type": "bttv",
         "description": "Ещё один инопланетянин, но тут он радужный"
     },
     {
         "name": "pepeD",
-        "image": "https://cdn.betterttv.net/emote/6073c41539b5010444cfd90c/3x",
+        "id": "6073c41539b5010444cfd90c",
+        "type": "bttv",
         "description": "Ещё один танцующий эмоут"
     },
     {
         "name": "ppJAM",
-        "image": "https://cdn.betterttv.net/emote/5ce6e1d031373227cbbd88c9/3x",
+        "id": "5ce6e1d031373227cbbd88c9",
+        "type": "bttv",
         "description": "ppL слушающий музыку"
     },
     {
         "name": "OMEGALULiguess",
-        "image": "https://cdn.betterttv.net/emote/6034124c7c74605395f326c9/3x",
+        "id": "6034124c7c74605395f326c9",
+        "type": "bttv",
         "description": "Sadge скрывающийся за маской OMEGALUL'a, используется когда что то смешное, но грустное"
     },
     {
         "name": "VeryPog",
-        "image": "https://cdn.betterttv.net/emote/60ade6eaf8b3f62601c332dc/3x",
+        "id": "60ade6eaf8b3f62601c332dc",
+        "type": "bttv",
         "description": "Форсен который ест огурец (спасибо пушке за эмоут)"
     },
     {
         "name": "EGIUM",
-        "image": "https://cdn.betterttv.net/emote/6079d65239b5010444d00966/3x",
+        "id": "6079d65239b5010444d00966",
+        "type": "bttv",
         "description": "Крутящийся куб из Okayeg'ов"
     },
     {
         "name": "peepoTalk",
-        "image": "https://cdn.betterttv.net/emote/608f154f39b5010444d0a765/3x",
+        "id": "608f154f39b5010444d0a765",
+        "type": "bttv",
         "description": "Разговаривающий пипо, используется когда кто-то говорит что-то непонятное, или повторяет одно и то же"
     },
     {
         "name": "Ovoe",
-        "image": "https://cdn.betterttv.net/emote/60a3de0a67644f1d67e8880e/3x",
+        "id": "60a3de0a67644f1d67e8880e",
+        "type": "bttv",
         "description": "Просто овое из мема про сыровое"
     },
     {
         "name": "headBang",
-        "image": "https://cdn.betterttv.net/emote/6047c3e7306b602acc599d48/3x",
+        "id": "6047c3e7306b602acc599d48",
+        "type": "bttv",
         "description": "Этот эмоут используется когда играет рок"
     },
     {
         "name": "Shulker",
-        "image": "https://cdn.betterttv.net/emote/6053e4be306b602acc59f8de/3x",
+        "id": "6053e4be306b602acc59f8de",
+        "type": "bttv",
         "description": "Открывающийся и закрывающийся шалкер, используется когда шалкеры открывают"
     },
     {
         "name": "catJAM",
-        "image": "https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x",
+        "id": "5f1b0186cf6d2144653d2970",
+        "type": "bttv",
         "description": "Кот который качает головой под музыку"
     },
     {
         "name": "ppClown",
-        "image": "https://cdn.betterttv.net/emote/5eb435b3813f92169355130c/3x",
+        "id": "5eb435b3813f92169355130c",
+        "type": "bttv",
         "description": "pepeL который обливает себя краской, и рисует на себе маску клоуна"
     },
     {
         "name": "STARE",
-        "image": "https://cdn.betterttv.net/emote/605c60aa7493072efdeb4313/3x",
+        "id": "605c60aa7493072efdeb4313",
+        "type": "bttv",
         "description": "Кот смотрящий прямо на вас из чата"
     },
     {
         "name": "KKatJAM",
-        "image": "https://cdn.betterttv.net/emote/5f3423c53212445d6fb3f3c4/3x",
+        "id": "5f3423c53212445d6fb3f3c4",
+        "type": "bttv",
         "description": "Ещё один кот качающий головой под музыку, но этот в фуражке, и обычно его используют когда играет русская музыка"
     },
     {
         "name": "modCheck",
-        "image": "https://cdn.betterttv.net/emote/602fed8aa94aaa6e662d8470/3x",
+        "id": "602fed8aa94aaa6e662d8470",
+        "type": "bttv",
         "description": "Кот который ищет модераторов, или просто смотрящий по сторонам"
     },
     {
         "name": "ppSpin",
-        "image": "https://cdn.betterttv.net/emote/5fab391542cf82644d875257/3x",
+        "id": "5fab391542cf82644d875257",
+        "type": "bttv",
         "description": "Крутящийся на месте pepeL"
     },
     {
         "name": "ppL",
-        "image": "https://cdn.frankerfacez.com/emoticon/229544/4",
+        "id": "229544",
+        "type": "ffz",
         "description": "Очень маленькая пиксельная лягушка"
     },
     {
         "name": "Yasno",
-        "image": "https://cdn.betterttv.net/emote/604d5268306b602acc59c71e/3x",
+        "id": "604d5268306b602acc59c71e",
+        "type": "bttv",
         "description": "Динозаврик из Telegram, качающий головой"
     },
     {
         "name": "pepeMeltdown",
-        "image": "https://cdn.betterttv.net/emote/5ba84271c9f0f66a9efc1c86/3x",
+        "id": "5ba84271c9f0f66a9efc1c86",
+        "type": "bttv",
         "description": "Искажённая версия эмоута PepeS"
     },
     {
         "name": "Sadge",
-        "image": "https://cdn.betterttv.net/emote/5f8d8508473f4802fe473f58/3x",
+        "id": "5f8d8508473f4802fe473f58",
+        "type": "bttv",
         "description": "Okayga которая грустит и плачет"
     },
     {
         "name": "ppPoof",
-        "image": "https://cdn.betterttv.net/emote/5afe99e57724ae2706b27355/3x",
+        "id": "5afe99e57724ae2706b27355",
+        "type": "bttv",
         "description": "Исчезающий pepeL"
     },
     {
         "name": "ppFoop",
-        "image": "https://cdn.betterttv.net/emote/5c7e79ce298047130f9fb76f/3x",
+        "id": "5c7e79ce298047130f9fb76f",
+        "type": "bttv",
         "description": "Возвращающийся pepeL"
     },
     {
         "name": "pepeSenora",
-        "image": "https://cdn.betterttv.net/emote/5db01c1e6fc9dd12cbaf12c9/3x",
+        "id": "5db01c1e6fc9dd12cbaf12c9",
+        "type": "bttv",
         "description": "pepeL в самбреро, используется когда вы слышите что-то испанское"
     },
     {
         "name": "docJAM",
-        "image": "https://cdn.betterttv.net/emote/5fb7e2a3c242076f1a04e9cb/3x",
+        "id": "5fb7e2a3c242076f1a04e9cb",
+        "type": "bttv",
         "description": "Доктор Дизреспект двигающийся под музыку"
     },
     {
         "name": "ppCircle",
-        "image": "https://cdn.betterttv.net/emote/5b71c875f917661fecd1e14a/3x",
+        "id": "5b71c875f917661fecd1e14a",
+        "type": "bttv",
         "description": "Крутящийся pepeL"
     },
     {
         "name": "peepoClap",
-        "image": "https://cdn.betterttv.net/emote/5d38aaa592fc550c2d5996b8/3x",
+        "id": "5d38aaa592fc550c2d5996b8",
+        "type": "bttv",
         "description": "Весёлый пипо, хлопающий в ладоши"
     },
     {
         "name": "peepoOD",
-        "image": "https://cdn.betterttv.net/emote/5e1901238af14b5f1b43785c/3x",
+        "id": "5e1901238af14b5f1b43785c",
+        "type": "bttv",
         "description": "Галлюционирующий пипо, используется когда что то выглядит как галлюцинации, или как зависимость. Например: Нам нужно больше ставочек peepoOD"
     },
     {
         "name": "sadCat",
-        "image": "https://cdn.betterttv.net/emote/5e116a78b640b52102c64372/3x",
+        "id": "5e116a78b640b52102c64372",
+        "type": "bttv",
         "description": "Грустный котик"
     },
     {
         "name": "WeirdChamping",
-        "image": "https://cdn.betterttv.net/emote/5fccf1699d35484633453e68/3x",
+        "id": "5fccf1699d35484633453e68",
+        "type": "bttv",
         "description": "Доктор Дизреспект, осуждающе поворачивающий головой"
     },
     {
         "name": "peepoWeirdLeave",
-        "image": "https://cdn.betterttv.net/emote/5df11386e7df1277b6070304/3x",
+        "id": "5df11386e7df1277b6070304",
+        "type": "bttv",
         "description": "Осуждающий пипо, который медленно уходит"
     },
     {
         "name": "peepoArrive",
-        "image": "https://cdn.betterttv.net/emote/5fff6af9a637883149c82341/3x",
+        "id": "5fff6af9a637883149c82341",
+        "type": "bttv",
         "description": "Котик с маленькими лапками, который медленно идёт к камере"
     },
     {
         "name": "NOIDONTTHINKSO",
-        "image": "https://cdn.betterttv.net/emote/5f10cdc819a5bd0524ecc8f7/3x",
+        "id": "5f10cdc819a5bd0524ecc8f7",
+        "type": "bttv",
         "description": "Анимированный forsenSmug, говорящий \"нет, я так не думаю\""
     },
     {
         "name": "pepeW",
-        "image": "https://cdn.betterttv.net/emote/5f5cf1893769246c03219e91/3x",
+        "id": "5f5cf1893769246c03219e91",
+        "type": "bttv",
         "description": "Уставший пепе, используется когда кто-то делает что-то уже настолько много, что вы уже устали от этого"
     },
     {
         "name": "PagMan",
-        "image": "https://cdn.betterttv.net/emote/5f0ed97873e8e20538d812a6/3x",
+        "id": "5f0ed97873e8e20538d812a6",
+        "type": "bttv",
         "description": "Эмоут образован от старого PogChamp'a и используется когда произошло что-то крутое"
     },
     {
         "name": "monkaCat",
-        "image": "https://cdn.betterttv.net/emote/5f9be415473f4802fe482637/3x",
+        "id": "5f9be415473f4802fe482637",
+        "type": "bttv",
         "description": "Испуганный кот, смотрящий в камеру"
     },
     {
         "name": "popCat",
-        "image": "https://cdn.betterttv.net/emote/5fa8f232eca18f6455c2b2e1/3x",
+        "id": "5fa8f232eca18f6455c2b2e1",
+        "type": "bttv",
         "description": "Кот который издаёт попающие звуки, используется когда вы их слышите"
     },
     {
         "name": "DinkDonk",
-        "image": "https://cdn.betterttv.net/emote/5f898862473f4802fe4703a6/3x",
+        "id": "5f898862473f4802fe4703a6",
+        "type": "bttv",
         "description": "FeelsDonkMan звонящий в колокольчик"
     },
     {
         "name": "HELLO",
-        "image": "https://cdn.betterttv.net/emote/5fb049ed2d853564472d7450/3x",
+        "id": "5fb049ed2d853564472d7450",
+        "type": "bttv",
         "description": "Форсен смотрящий в камеру, и включающий и выключающий свет"
     },
     {
         "name": "forsenParty",
-        "image": "https://cdn.betterttv.net/emote/5f22a6cefe85fb4472d1a75f/3x",
+        "id": "5f22a6cefe85fb4472d1a75f",
+        "type": "bttv",
         "description": "Танцующий форсен"
     },
     {
         "name": "monkaE",
-        "image": "https://cdn.betterttv.net/emote/5e10fd8c3267f72103fd4f25/3x",
+        "id": "5e10fd8c3267f72103fd4f25",
+        "type": "bttv",
         "description": "Искажающееся в страхе лицо форсена, используется когда вы видите лошадь. Связано это с баном форсена из-за гифки, которую ему прислали в донате, содержащую порнографический характер с лошадью"
     },
     {
         "name": "docPls",
-        "image": "https://cdn.betterttv.net/emote/5e2eaabeb1d0ac51e8ece290/3x",
+        "id": "5e2eaabeb1d0ac51e8ece290",
+        "type": "bttv",
         "description": "Танцующий Доктор Дизреспект"
     },
     {
         "name": "kekBomb",
-        "image": "https://cdn.betterttv.net/emote/5d622332375afb1da9a68154/3x",
+        "id": "5d622332375afb1da9a68154",
+        "type": "bttv",
         "description": "Пепе смеющийся настолько сильно, что он взрывается"
     },
     {
         "name": "forsenCoomer",
-        "image": "https://cdn.betterttv.net/emote/5ec7287010aaa55e294663dc/3x",
+        "id": "5ec7287010aaa55e294663dc",
+        "type": "bttv",
         "description": "Форсен двигающий мышкой вверх вниз, из-за того что застрял в игре. <a href=\"https://www.youtube.com/watch?v=D0MvEFso6bo\">Посмотреть этот момент</a>"
     },
     {
         "name": "peepoShut",
-        "image": "https://cdn.betterttv.net/emote/5e12e38d3267f72103fd6b15/3x",
+        "id": "5e12e38d3267f72103fd6b15",
+        "type": "bttv",
         "description": "Пипо лежащий в кроватке, и грустно закрывающий ноутбук"
     },
     {
         "name": "CatType",
-        "image": "https://cdn.betterttv.net/emote/5eb5f69ff0fb3f168c4ac934/3x",
+        "id": "5eb5f69ff0fb3f168c4ac934",
+        "type": "bttv",
         "description": "Кот печатающий что то очень быстро в чат"
     },
     {
         "name": "PETTHEPEEPO",
-        "image": "https://cdn.betterttv.net/emote/5ec059009af1ea16863b2dec/3x",
+        "id": "5ec059009af1ea16863b2dec",
+        "type": "bttv",
         "description": "Эмоут который гладит пипо"
     },
     {
         "name": "StreamerDoesntKnow",
-        "image": "https://cdn.betterttv.net/emote/5e7cdc1d6d485d372b29e733/3x",
+        "id": "5e7cdc1d6d485d372b29e733",
+        "type": "bttv",
         "description": "Данный эмоут используется для того, что-бы посмеятся когда кто-то что-то не знает"
     },
     {
         "name": "wtfChat",
-        "image": "https://cdn.betterttv.net/emote/5ea2017dd023b362f638f858/3x",
+        "id": "5ea2017dd023b362f638f858",
+        "type": "bttv",
         "description": "Злая версия peepoChat'a, используется когда вы чем то не довольны"
     },
     {
         "name": "Tasty",
-        "image": "https://cdn.betterttv.net/emote/5e830c3a269f8409604a06f9/3x",
+        "id": "5e830c3a269f8409604a06f9",
+        "type": "bttv",
         "description": "Облизывающийся котик, который съел что-то вкусное, используется когда вы видите вкусную еду, или когда кто-то ест"
     },
     {
         "name": "AweeWoo",
-        "image": "https://cdn.betterttv.net/emote/5cb66b07c739ce7eb6e86dd1/3x",
+        "id": "5cb66b07c739ce7eb6e86dd1",
+        "type": "bttv",
         "description": "Используется когда вы слышите сирену, или как мигалку"
     },
     {
         "name": "peepoGiggle",
-        "image": "https://cdn.betterttv.net/emote/5e1eb57cbca2995f13fb7ce7/3x",
+        "id": "5e1eb57cbca2995f13fb7ce7",
+        "type": "bttv",
         "description": "Хихикающий пипо, используется когда вы подшутили над кем-то"
     },
     {
         "name": "RickPls",
-        "image": "https://cdn.betterttv.net/emote/55a16413bcf69555414360f2/3x",
+        "id": "55a16413bcf69555414360f2",
+        "type": "bttv",
         "description": "Танцующий Рик Эстли из клипа \"Never Gonna Give You Up\", используется когда вы слышите эту песню"
     },
     {
         "name": "peepoBed",
-        "image": "https://cdn.betterttv.net/emote/5e45cbd4751afe7d553db6a0/3x",
+        "id": "5e45cbd4751afe7d553db6a0",
+        "type": "bttv",
         "description": "Пипо идущий в кровать"
     },
     {
         "name": "TriYoink",
-        "image": "https://cdn.betterttv.net/emote/5e235a25bca2995f13fbb373/3x",
+        "id": "5e235a25bca2995f13fbb373",
+        "type": "bttv",
         "description": "TriHard ворующий что-то"
     },
     {
         "name": "gachiBASS",
-        "image": "https://cdn.betterttv.net/emote/57719a9a6bdecd592c3ad59b/3x",
+        "id": "57719a9a6bdecd592c3ad59b",
+        "type": "bttv",
         "description": "Дёргающееся лицо Билли, из гачимучи. Используется когда вы слышите гачи треки, или когда вы слышите мужские стоны"
     },
     {
         "name": "ppHopper",
-        "image": "https://cdn.betterttv.net/emote/5b0da25016252035ad06900e/3x",
+        "id": "5b0da25016252035ad06900e",
+        "type": "bttv",
         "description": "Ускоренная версия ppHop'a"
     },
     {
         "name": "ppOverheat",
-        "image": "https://cdn.betterttv.net/emote/5b3e953a2c8a38720760c7f7/3x",
+        "id": "5b3e953a2c8a38720760c7f7",
+        "type": "bttv",
         "description": "Ещё более ускоренная версия ppHop'a"
     },
     {
         "name": "monkaEXTREME",
-        "image": "https://cdn.betterttv.net/emote/5b8a9c6f80c14b0422a7b2a0/3x",
+        "id": "5b8a9c6f80c14b0422a7b2a0",
+        "type": "bttv",
         "description": "Сильно искажённый monkaS. Используется когда происходит что-то ОЧЕНЬ страшное"
     },
     {
         "name": "BLELELE",
-        "image": "https://cdn.betterttv.net/emote/583eb50550222f7f1086e012/3x",
+        "id": "583eb50550222f7f1086e012",
+        "type": "bttv",
         "description": "Лицо котика издающего звуки блелеле, используется когда вы слышите эти звуки"
     },
     {
         "name": "peepoDetective",
-        "image": "https://cdn.betterttv.net/emote/5c058264388eea251b3ec406/3x",
+        "id": "5c058264388eea251b3ec406",
+        "type": "bttv",
         "description": "Пипо ищущий что-то, или просто что-то разглядывающий в лупе"
     },
     {
         "name": "gachiHop",
-        "image": "https://cdn.betterttv.net/emote/571e5ae5ef2b92040a9682c7/3x",
+        "id": "571e5ae5ef2b92040a9682c7",
+        "type": "bttv",
         "description": "gachiGASM использующийся когда он прыгает в такт музыке"
     },
     {
         "name": "forsenSWA",
-        "image": "https://cdn.betterttv.net/emote/571647c4793a158658202e2e/3x",
+        "id": "571647c4793a158658202e2e",
+        "type": "bttv",
         "description": "Взбешённое лицо форсена, используется когда кто-то издаёт злые мычащие звуки, или когда кричат что они невезучие"
     },
     {
         "name": "forsenDiscoSnake",
-        "image": "https://cdn.betterttv.net/emote/5a8314b61686393232d31027/3x",
+        "id": "5a8314b61686393232d31027",
+        "type": "bttv",
         "description": "Ещё один танцующий/музыкальный эмуот"
     },
     {
         "name": "HYPERJAM",
-        "image": "https://cdn.betterttv.net/emote/5c16fe9c5d8b2f53da70838a/3x",
+        "id": "5c16fe9c5d8b2f53da70838a",
+        "type": "bttv",
         "description": "Ускоренный pepeJAM. Используется когда играет трек с сильный бассом"
     },
     {
         "name": "pepeJAMJAM",
-        "image": "https://cdn.betterttv.net/emote/5c36fba2c6888455faa2e29f/3x",
+        "id": "5c36fba2c6888455faa2e29f",
+        "type": "bttv",
         "description": "Ещё один pepeJAM, хорошо подходящий под трек \"U got that\""
     },
     {
         "name": "billyReady",
-        "image": "https://cdn.betterttv.net/emote/58763fcecb2b7248f8b9b0cf/3x",
+        "id": "58763fcecb2b7248f8b9b0cf",
+        "type": "bttv",
         "description": "Билли рвущий футболку на себе. Используется как готовность. Например: Ну давай пвп, я готов billyReady"
     },
     {
         "name": "gachiHYPER",
-        "image": "https://cdn.betterttv.net/emote/59143b496996b360ff9b807c/3x",
+        "id": "59143b496996b360ff9b807c",
+        "type": "bttv",
         "description": "Трясущийся gachiGASM, используется когда какой-то мужчина кричит"
     },
     {
         "name": "PotatoTriggered",
-        "image": "https://cdn.betterttv.net/emote/5b9eea402e04a1152331ac68/3x",
+        "id": "5b9eea402e04a1152331ac68",
+        "type": "bttv",
         "description": "Злая картошка, используется когда вы злитесь"
     },
     {
         "name": "EatPoo",
-        "image": "https://cdn.betterttv.net/emote/5903aeee981c75232793894d/3x",
+        "id": "5903aeee981c75232793894d",
+        "type": "bttv",
         "description": "Этот эмуот используется что-бы поесть какашки"
     },
     {
         "name": "HYPERCLAP",
-        "image": "https://cdn.betterttv.net/emote/5b35ca08392c604c5fd81874/3x",
+        "id": "5b35ca08392c604c5fd81874",
+        "type": "bttv",
         "description": "Ускоренный эмоут Clap"
     },
     {
         "name": "FastMineTime",
-        "image": "https://cdn.betterttv.net/emote/60dc7e828ed8b373e421bab9/3x",
+        "id": "60dc7e828ed8b373e421bab9",
+        "type": "bttv",
         "description": "Просто копающая незеритовая кирка, используется когда кто-то быстро копает"
     },
     {
         "name": "Blyatge",
-        "image": "https://cdn.betterttv.net/emote/60d1d66b8ed8b373e4217c1d/3x",
+        "id": "60d1d66b8ed8b373e4217c1d",
+        "type": "bttv",
         "description": "Okayga выглядящая как гопник, используется когда кто-то ведёт себя как быдло, или говорит \"э, ёпта\" и прочие выражения быдла"
     },
     {
         "name": "bIbI",
-        "image": "https://cdn.betterttv.net/emote/60bba2c8f8b3f62601c390ac/3x",
+        "id": "60bba2c8f8b3f62601c390ac",
+        "type": "bttv",
         "description": "Просто Ы"
     },
     {
         "name": "Actually",
-        "image": "https://cdn.betterttv.net/emote/60abaa4a67644f1d67e8c0c9/3x",
+        "id": "60abaa4a67644f1d67e8c0c9",
+        "type": "bttv",
         "description": "Лицо умника, используется когда кто то предоставляет факты или пытается что-то объяснить, но его об этом не просили"
     },
     {
         "name": "PWGud",
-        "image": "https://cdn.betterttv.net/emote/609913b039b5010444d0ee1a/3x",
+        "id": "609913b039b5010444d0ee1a",
+        "type": "bttv",
         "description": "Родной брат, и модератор пвгуда, постоянно сидит в чате, и пвгуд даже сделал для него личный эмоут"
     },
     {
         "name": "pwgoodDespair",
-        "image": "https://cdn.betterttv.net/emote/6084638939b5010444d057eb/3x",
+        "id": "6084638939b5010444d057eb",
+        "type": "bttv",
         "description": "Отчаянное лицо трольфейса"
     },
     {
         "name": "jamCAT",
-        "image": "https://cdn.betterttv.net/emote/606bd475fba15a03df2c8fec/3x",
+        "id": "606bd475fba15a03df2c8fec",
+        "type": "bttv",
         "description": "Танцующий котик"
     },
     {
         "name": "2B2T",
-        "image": "https://cdn.betterttv.net/emote/60623da1a407570b72f2781c/3x",
+        "id": "60623da1a407570b72f2781c",
+        "type": "bttv",
         "description": "Эмоут сделан из-за детей спрашивающий про 2б2т у пакета, используется когда вы слышите про 2бт2"
     },
     {
         "name": "pwgpwgL",
-        "image": "https://cdn.betterttv.net/emote/60461b19306b602acc599059/3x",
+        "id": "60461b19306b602acc599059",
+        "type": "bttv",
         "description": "Эмоут сделан из эмоута заквиеля, но с головой пвгуда-лунтика"
     },
     {
         "name": "pwgoodYou",
-        "image": "https://cdn.betterttv.net/emote/604238a3306b602acc5975ea/3x",
+        "id": "604238a3306b602acc5975ea",
+        "type": "bttv",
         "description": "Используется что бы показать на того кто смотрит в чат. Например: А ты pwgoodYou купил сабку на пвгуда?"
     },
     {
         "name": "Chel",
-        "image": "https://cdn.betterttv.net/emote/603a82fc7c74605395f35680/3x",
+        "id": "603a82fc7c74605395f35680",
+        "type": "bttv",
         "description": "Лицо пвгуда, смотрящее вам прямо в душу, но на самом деле просто смешное лицо"
     },
     {
         "name": "pwgoodCopium",
-        "image": "https://cdn.betterttv.net/emote/60338a6e7c74605395f32265/3x",
+        "id": "60338a6e7c74605395f32265",
+        "type": "bttv",
         "description": "Пвгуд вдыхающий копиум, используется когда вы верите в то, что не является правдой. Например: Ельгард сделает эмоуты за месяц pwgoodCopium"
     },
     {
         "name": "lizardJAM",
-        "image": "https://cdn.betterttv.net/emote/6022965c609f1c336ffe54ef/3x",
+        "id": "6022965c609f1c336ffe54ef",
+        "type": "bttv",
         "description": "Танцующая ящерка"
     },
     {
         "name": "KomodoLove",
-        "image": "https://cdn.betterttv.net/emote/60048225465444316bf67e07/3x",
+        "id": "60048225465444316bf67e07",
+        "type": "bttv",
         "description": "Обнимающиеся вараны, с помощью этого эмоута вы можете обнять своего друга в чате"
     },
     {
         "name": "navStare",
-        "image": "https://cdn.betterttv.net/emote/60047e6fc12abd316340cf08/3x",
+        "id": "60047e6fc12abd316340cf08",
+        "type": "bttv",
         "description": "Смотрящее лицо Навального, используется когда кто-то говорит о Навальном"
     },
     {
         "name": "WeirdChamp",
-        "image": "https://cdn.betterttv.net/emote/5fff139a465444316bf62387/3x",
+        "id": "5fff139a465444316bf62387",
+        "type": "bttv",
         "description": "Осуждающе смотрящее лицо Форсена"
     },
     {
         "name": "PauseChamp",
-        "image": "https://cdn.betterttv.net/emote/5ffc518fc12abd31634048bf/3x",
+        "id": "5ffc518fc12abd31634048bf",
+        "type": "bttv",
         "description": "Остановившееся лицо popCat'a, используется что бы помолчать"
     },
     {
         "name": "pwgoodCD",
-        "image": "https://cdn.betterttv.net/emote/5ff6150ca37f5b2fcb2bfa71/3x",
+        "id": "5ff6150ca37f5b2fcb2bfa71",
+        "type": "bttv",
         "description": "Лицо пвгуда с очками и усами Доктора Дизреспекта"
     },
     {
         "name": "pwgoodMove",
-        "image": "https://cdn.betterttv.net/emote/5ff07c943edf1a2e56b7a5dc/3x",
+        "id": "5ff07c943edf1a2e56b7a5dc",
+        "type": "bttv",
         "description": "Эмоут был сделан из-за довольно глупой ошибки пвгуда, во время его игры в шахматы на новогоднем стриме, используется когда упоминаются шахматы"
     },
     {
         "name": "Defman",
-        "image": "https://cdn.betterttv.net/emote/5fd108a30adab7461859536d/3x",
+        "id": "5fd108a30adab7461859536d",
+        "type": "bttv",
         "description": "Именной эмоут DEFMAN'а, лучше бы вам его не использовать просто так, иначе он придёт и уничтожит вас"
     },
     {
         "name": "BOGGED",
-        "image": "https://cdn.betterttv.net/emote/5fca4dab9d35484633450b49/3x",
+        "id": "5fca4dab9d35484633450b49",
+        "type": "bttv",
         "description": "Данный эмоут используется когда кто-то звонит кому-то"
     },
     {
         "name": "POGGERS",
-        "image": "https://cdn.betterttv.net/emote/5fca1debcac2fb4621e4f0f1/3x",
+        "id": "5fca1debcac2fb4621e4f0f1",
+        "type": "bttv",
         "description": "Это нога пвгуда"
     },
     {
         "name": "Where",
-        "image": "https://cdn.betterttv.net/emote/5fc0e8f0f096f76f0d1c8ae4/3x",
+        "id": "5fc0e8f0f096f76f0d1c8ae4",
+        "type": "bttv",
         "description": "Эмоут луны ищущей что то"
     },
     {
         "name": "peepoLeave",
-        "image": "https://cdn.betterttv.net/emote/5fa984f3eca18f6455c2bb0a/3x",
+        "id": "5fa984f3eca18f6455c2bb0a",
+        "type": "bttv",
         "description": "Смущённо уходящий пипо"
     },
     {
         "name": "Leave",
-        "image": "https://cdn.betterttv.net/emote/5fa97c012d853564472cfac1/3x",
+        "id": "5fa97c012d853564472cfac1",
+        "type": "bttv",
         "description": "Смешно уходящая груша"
     },
     {
         "name": "Cool",
-        "image": "https://cdn.betterttv.net/emote/5fa80b37f32aa26441c82619/3x",
+        "id": "5fa80b37f32aa26441c82619",
+        "type": "bttv",
         "description": "Просто крутой смайлик, используйте его когда вы крутые"
     },
     {
         "name": "peepoKittyHug",
-        "image": "https://cdn.betterttv.net/emote/5f95e836473f4802fe47c57a/3x",
+        "id": "5f95e836473f4802fe47c57a",
+        "type": "bttv",
         "description": "Пипо обнимающий котика"
     },
     {
         "name": "Announcement",
-        "image": "https://cdn.betterttv.net/emote/5f9064656f583802e3895e57/3x",
+        "id": "5f9064656f583802e3895e57",
+        "type": "bttv",
         "description": "Используется когда стример говорит \"Чат, чат, чат\""
     },
     {
         "name": "EtoMozhnoNapisatBukvami",
-        "image": "https://cdn.betterttv.net/emote/5f81d979e9c9344a8f35717d/3x",
+        "id": "5f81d979e9c9344a8f35717d",
+        "type": "bttv",
         "description": "Используется когда кто-то зевает, или просто говорит \"аааа\""
     },
     {
         "name": "Unless",
-        "image": "https://cdn.betterttv.net/emote/5f8169552bd46e4a86b12a0d/3x",
+        "id": "5f8169552bd46e4a86b12a0d",
+        "type": "bttv",
         "description": "Лицо Павла Дурова, целующее вас"
     },
     {
         "name": "Trefis",
-        "image": "https://cdn.betterttv.net/emote/5f5b872caa6fe06bfb603cfe/3x",
+        "id": "5f5b872caa6fe06bfb603cfe",
+        "type": "bttv",
         "description": "Именной эмоут Трефиса (а вот он уже фортнайтер)"
     },
     {
         "name": "peepoEvil",
-        "image": "https://cdn.betterttv.net/emote/5f4e9adf0b77be6bfcacdaa3/3x",
+        "id": "5f4e9adf0b77be6bfcacdaa3",
+        "type": "bttv",
         "description": "Злой пипо, используется когда кто-то делает что-то злое"
     },
     {
         "name": "Prikol",
-        "image": "https://cdn.betterttv.net/emote/5f4cea953769246c0320b877/3x",
+        "id": "5f4cea953769246c0320b877",
+        "type": "bttv",
         "description": "Смеющийся смайлик, используется что бы посмеятся над несмешными шутками"
     },
     {
         "name": "pwgoodChat",
-        "image": "https://cdn.betterttv.net/emote/5f4cd96b6084af6c171934f1/3x",
+        "id": "5f4cd96b6084af6c171934f1",
+        "type": "bttv",
         "description": "peepoChat но вместо пипо, пвгуд"
     },
     {
         "name": "peepoVerified",
-        "image": "https://cdn.betterttv.net/emote/5f48cb8768d9d86c020d42c5/3x",
+        "id": "5f48cb8768d9d86c020d42c5",
+        "type": "bttv",
         "description": "Пвгуд добавил этот эмоут, когда шёл к партнёрке, используется когда упоминается партнёрка или галочка"
     },
     {
         "name": "pwgoodBOG",
-        "image": "https://cdn.betterttv.net/emote/5f3fa69bf93bbe5d717f68af/3x",
+        "id": "5f3fa69bf93bbe5d717f68af",
+        "type": "bttv",
         "description": "Злая сторона пвгуда, илиже PWBad"
     },
     {
         "name": "Luntik",
-        "image": "https://cdn.betterttv.net/emote/5f3eb5e73212445d6fb49a29/3x",
+        "id": "5f3eb5e73212445d6fb49a29",
+        "type": "bttv",
         "description": "Лунтк сделаный из лица пвгуда, используется когда он кого то прощает (опять?)"
     },
     {
         "name": "peepoShy",
-        "image": "https://cdn.betterttv.net/emote/5f262085cf6d2144653dcf0e/3x",
+        "id": "5f262085cf6d2144653dcf0e",
+        "type": "bttv",
         "description": "Используется когда вы стестняетесь"
     },
     {
         "name": "peepoHey",
-        "image": "https://cdn.betterttv.net/emote/5f25b12665fe924464ef087e/3x",
+        "id": "5f25b12665fe924464ef087e",
+        "type": "bttv",
         "description": "Махающий эмоут, используется что бы сказать кому нибудь привет"
     },
     {
         "name": "peepoSad",
-        "image": "https://cdn.betterttv.net/emote/5f25b0d4fe85fb4472d1d54f/3x",
+        "id": "5f25b0d4fe85fb4472d1d54f",
+        "type": "bttv",
         "description": "Используйте когда вам грустно, или просто что бы поплакать"
     },
     {
         "name": "lurkingChat",
-        "image": "https://cdn.betterttv.net/emote/5f250957cf6d2144653dbe7d/3x",
+        "id": "5f250957cf6d2144653dbe7d",
+        "type": "bttv",
         "description": "Луркающий пипо, ничего не пишущий в чат, и забирающий поинты. Используйте когда вы соответствуете требованиям к данному эмоуту"
     },
     {
         "name": "peepoKotleta",
-        "image": "https://cdn.betterttv.net/emote/5f241d1c65fe924464eef109/3x",
+        "id": "5f241d1c65fe924464eef109",
+        "type": "bttv",
         "description": "Эмоут добавлен из-за того что пвгуд в один момент ел котлеты очень часто, используется при упоминании котлет"
     },
     {
         "name": "pwgoodKid",
-        "image": "https://cdn.betterttv.net/emote/5f21744a6f3782446601af1f/3x",
+        "id": "5f21744a6f3782446601af1f",
+        "type": "bttv",
         "description": "Пвгуд ребёнок, используется когда упоминаются дети"
     },
     {
         "name": "Flushed",
-        "image": "https://cdn.betterttv.net/emote/5f1abc066f378244660150eb/3x",
+        "id": "5f1abc066f378244660150eb",
+        "type": "bttv",
         "description": "Используйте этот эмоут когда вы смущаетесь"
     },
     {
         "name": "forsenRage",
-        "image": "https://cdn.betterttv.net/emote/5f1158e973e8e20538d8376f/3x",
+        "id": "5f1158e973e8e20538d8376f",
+        "type": "bttv",
         "description": "Разозлённый форсен, который бьёт по столу"
     },
     {
         "name": "peepoOkay",
-        "image": "https://cdn.betterttv.net/emote/5f06085a72ac200523c64c7c/3x",
+        "id": "5f06085a72ac200523c64c7c",
+        "type": "bttv",
         "description": "Стрессово смеющийся пипо"
     },
     {
         "name": "KupilDengi",
-        "image": "https://cdn.betterttv.net/emote/5ef84e1551e3910deed632ec/3x",
+        "id": "5ef84e1551e3910deed632ec",
+        "type": "bttv",
         "description": "Пвгуд купивший деньги, используйте когда вы купили денег"
     },
     {
         "name": "Napal",
-        "image": "https://cdn.betterttv.net/emote/5ef5c77d79645a0dec354458/3x",
+        "id": "5ef5c77d79645a0dec354458",
+        "type": "bttv",
         "description": "Искажённая версия Napadai"
     },
     {
         "name": "MEGALUL",
-        "image": "https://cdn.betterttv.net/emote/5ef09190f91de70dea5bc5a8/3x",
+        "id": "5ef09190f91de70dea5bc5a8",
+        "type": "bttv",
         "description": "Лицо монстра из игры Jump King, используйте что бы показать что вы монстр, или напугать кого-нибудь"
     },
     {
         "name": "PokupaiteDengi",
-        "image": "https://cdn.betterttv.net/emote/5ef05e3d79645a0dec34da87/3x",
+        "id": "5ef05e3d79645a0dec34da87",
+        "type": "bttv",
         "description": "Пвгуд, призывающий покупать деньги"
     },
     {
         "name": "pepeY",
-        "image": "https://cdn.betterttv.net/emote/5eefd0ea79645a0dec34d1dd/3x",
+        "id": "5eefd0ea79645a0dec34d1dd",
+        "type": "bttv",
         "description": "Пепе сходящий с ума, используйте когда что-то повтрояется уже бесчисленное количество раз"
     },
     {
         "name": "peepoComfy",
-        "image": "https://cdn.betterttv.net/emote/5ede45f910aaa55e294830b3/3x",
+        "id": "5ede45f910aaa55e294830b3",
+        "type": "bttv",
         "description": "Пипо в пледике, используйте когда вам комфортно или чиллово"
     },
     {
         "name": "Durka",
-        "image": "https://cdn.betterttv.net/emote/5ed5ed32f54be95e2a83abbf/3x",
+        "id": "5ed5ed32f54be95e2a83abbf",
+        "type": "bttv",
         "description": "Используйте когда упоминается дурка"
     },
     {
         "name": "NotSurePotato",
-        "image": "https://cdn.betterttv.net/emote/5ecd12c3f54be95e2a8303a0/3x",
+        "id": "5ecd12c3f54be95e2a8303a0",
+        "type": "bttv",
         "description": "Картошка смотрящая с подозрением"
     },
     {
         "name": "FeelsDyslexiaMan",
-        "image": "https://cdn.betterttv.net/emote/5eb9936e813f921693557ee2/3x",
+        "id": "5eb9936e813f921693557ee2",
+        "type": "bttv",
         "description": "FeelsDankMan, который не может прочитать что-то в книге,"
     },
     {
         "name": "pukIng",
-        "image": "https://cdn.betterttv.net/emote/5eb1340650eb4f058b85841a/3x",
+        "id": "5eb1340650eb4f058b85841a",
+        "type": "bttv",
         "description": "Блюющий смайлик, используйте когда видите что то очень неприятное"
     },
     {
         "name": "derpL",
-        "image": "https://cdn.betterttv.net/emote/5e9ee1a77e090362f8b0e76a/3x",
+        "id": "5e9ee1a77e090362f8b0e76a",
+        "type": "bttv",
         "description": "Совсем маленький пвгуд жесть"
     },
     {
         "name": "FeelsOkayMan",
-        "image": "https://cdn.betterttv.net/emote/5e8aeae3518d2b5ce0b0e73b/3x",
+        "id": "5e8aeae3518d2b5ce0b0e73b",
+        "type": "bttv",
         "description": "Одобряющий смайл пепе, используйте его для того что-бы показать дружелюбие"
     },
     {
         "name": "PepeHands",
-        "image": "https://cdn.betterttv.net/emote/5e85e72d269f8409604a348c/3x",
+        "id": "5e85e72d269f8409604a348c",
+        "type": "bttv",
         "description": "Плачущий пепе, используйте когда вам грустно"
     },
     {
         "name": "5Klass",
-        "image": "https://cdn.betterttv.net/emote/5e7b6a6ad112fc3725751251/3x",
+        "id": "5e7b6a6ad112fc3725751251",
+        "type": "bttv",
         "description": "Используйте этот эмоут когда что-то классно, и умно"
     },
     {
         "name": "PepoG",
-        "image": "https://cdn.betterttv.net/emote/5e750a27d6581c3724c0d70c/3x",
+        "id": "5e750a27d6581c3724c0d70c",
+        "type": "bttv",
         "description": "Пепо в очках и с листочком, используйте этот эмоут что-бы записать что-то в листочек"
     },
     {
         "name": "KekeHands",
-        "image": "https://cdn.betterttv.net/emote/5e522113d736527d5cd367f3/3x",
+        "id": "5e522113d736527d5cd367f3",
+        "type": "bttv",
         "description": "Смеющийся и одновременно плачущий пепе"
     },
     {
         "name": "Lebedev",
-        "image": "https://cdn.betterttv.net/emote/5e495207d736527d5cd30833/3x",
+        "id": "5e495207d736527d5cd30833",
+        "type": "bttv",
         "description": "Лицо Артемия Лебедева, Используйте для безразличия, например: ну сломал и сломал Lebedev"
     },
     {
         "name": "WeirdChampo",
-        "image": "https://cdn.betterttv.net/emote/5e29f9be1df9195f1a4cdd10/3x",
+        "id": "5e29f9be1df9195f1a4cdd10",
+        "type": "bttv",
         "description": "Маленькая версия WeirdChamp'a"
     },
     {
         "name": "Mandarino",
-        "image": "https://cdn.betterttv.net/emote/5debe42ee7df1277b606e9ae/3x",
+        "id": "5debe42ee7df1277b606e9ae",
+        "type": "bttv",
         "description": "Мандариновая версия справедливого ореха"
     },
     {
         "name": "NapadaiW",
-        "image": "https://cdn.betterttv.net/emote/5db8837650952f47dbdee812/3x",
+        "id": "5db8837650952f47dbdee812",
+        "type": "bttv",
         "description": "Приближенное лицо эмоута Napdai"
     },
     {
         "name": "AYAYA",
-        "image": "https://cdn.betterttv.net/emote/5d9b27c2b58d1868c28657a5/3x",
+        "id": "5d9b27c2b58d1868c28657a5",
+        "type": "bttv",
         "description": "Название эмоута похоже на один из популярных анимешных эмоутов, и сам этот эмоут сделан специально что бы анимешники байтились на него"
     },
     {
         "name": "Klass",
-        "image": "https://cdn.betterttv.net/emote/5d8f9e531df66f68c80c54c7/3x",
+        "id": "5d8f9e531df66f68c80c54c7",
+        "type": "bttv",
         "description": "Используйте когда что-то классно"
     },
     {
         "name": "NeKlass",
-        "image": "https://cdn.betterttv.net/emote/5d9394c1c0652668c9e53524/3x",
+        "id": "5d9394c1c0652668c9e53524",
+        "type": "bttv",
         "description": "Используйте когда что-то не классно"
     },
     {
         "name": "EtoKomu",
-        "image": "https://cdn.betterttv.net/emote/5d2d8051d4315b684d3cd93e/3x",
+        "id": "5d2d8051d4315b684d3cd93e",
+        "type": "bttv",
         "description": "Используйте этот эмоут когда вы не понимаете что происходит, или кому адресовано сообщение"
     },
     {
         "name": "Napadai",
-        "image": "https://cdn.betterttv.net/emote/5cfce3a58b10802d79b0a17b/3x",
+        "id": "5cfce3a58b10802d79b0a17b",
+        "type": "bttv",
         "description": "Используйте когда вы агрессируете"
     },
     {
         "name": "BASED",
-        "image": "https://cdn.frankerfacez.com/emoticon/439694/4",
+        "id": "439694",
+        "type": "ffz",
         "description": "Лягушка Пепе в смокинге, используйте этот эмоут когда играет классическая музыка, или чьё то мнение очень хорошо"
     },
     {
         "name": "eShrug",
-        "image": "https://cdn.frankerfacez.com/emoticon/107715/4",
+        "id": "107715",
+        "type": "ffz",
         "description": "Лицо форсена пожимающее плечами, используйте когда вы что-то не знаете"
     },
     {
         "name": "FeelsDankMan",
-        "image": "https://cdn.frankerfacez.com/emoticon/465399/4",
+        "id": "465399",
+        "type": "ffz",
         "description": "Особенный пипо в конусе, используйте когда кто-то повёл себя немного по тупому"
     },
     {
         "name": "FeelsStrongMan",
-        "image": "https://cdn.frankerfacez.com/emoticon/292687/4",
+        "id": "292687",
+        "type": "ffz",
         "description": "Используйте когда вы плачете от радости"
     },
     {
         "name": "forsenHead",
-        "image": "https://cdn.frankerfacez.com/emoticon/305736/4",
+        "id": "305736",
+        "type": "ffz",
         "description": "Смеющееся лицо форсена, используется для шуток с мамами"
     },
     {
         "name": "forsenWhat",
-        "image": "https://cdn.frankerfacez.com/emoticon/367312/4",
+        "id": "367312",
+        "type": "ffz",
         "description": "Озадаченное лицо форсена"
     },
     {
         "name": "gachiGASM",
-        "image": "https://cdn.frankerfacez.com/emote/320527/4",
+        "id": "320527",
+        "type": "ffz",
         "description": "Лицо Билли Херингтона снимавшегося в гачимучи, используйте когда вы слышите мужские стоны"
     },
     {
         "name": "Gigachad",
-        "image": "https://cdn.frankerfacez.com/emoticon/354434/4",
+        "id": "354434",
+        "type": "ffz",
         "description": "Используется когда говорится о каких-то моментах идельного человека. Например: Конечно же я не пью, зачем мне это Gigachad"
     },
     {
         "name": "HandsUp",
-        "image": "https://cdn.frankerfacez.com/emoticon/229760/4",
+        "id": "229760",
+        "type": "ffz",
         "description": "gachiGASM с руками, используется для песен, и что бы поднять руки"
     },
     {
         "name": "Hmm",
-        "image": "https://cdn.frankerfacez.com/emoticon/565614/4",
+        "id": "565614",
+        "type": "ffz",
         "description": "Думающая лягушка, используйте когда думаете"
     },
     {
         "name": "KKomrade",
-        "image": "https://cdn.frankerfacez.com/emoticon/145916/4",
+        "id": "145916",
+        "type": "ffz",
         "description": "KKona с фуражкой, используется при упоминании России"
     },
     {
         "name": "Maaaaan",
-        "image": "https://cdn.frankerfacez.com/emoticon/543717/4",
+        "id": "543717",
+        "type": "ffz",
         "description": "Используется когда кто-то сделал что-то тупое или неправильное, и вы фейспалмите из-за этого"
     },
     {
         "name": "MMmmm",
-        "image": "https://cdn.frankerfacez.com/emoticon/239687/4",
+        "id": "239687",
+        "type": "ffz",
         "description": "Этот эмоут используется когда кто-то мычит, или происходит что то.... эротичное"
     },
     {
         "name": "monkaLaugh",
-        "image": "https://cdn.frankerfacez.com/emoticon/408792/4",
+        "id": "408792",
+        "type": "ffz",
         "description": "Стрессово смеющаяся лягушка"
     },
     {
         "name": "monkaOMEGA",
-        "image": "https://cdn.frankerfacez.com/emoticon/167431/4",
+        "id": "167431",
+        "type": "ffz",
         "description": "Искажённый monkaS, используйте когда вам сильно страшно"
     },
     {
         "name": "NaW",
-        "image": "https://cdn.frankerfacez.com/emoticon/421341/4",
+        "id": "421341",
+        "type": "ffz",
         "description": "Лицо Алексея Навального"
     },
     {
         "name": "Okey",
-        "image": "https://cdn.frankerfacez.com/emoticon/275054/4",
+        "id": "275054",
+        "type": "ffz",
         "description": "Используйте когда вам окей"
     },
     {
         "name": "PagChomp",
-        "image": "https://cdn.frankerfacez.com/emoticon/555675/4",
+        "id": "555675",
+        "type": "ffz",
         "description": "Ещё один эмоут образованный от PogChamp'a, но с раздатчиком, потому что раздатчик напоминает выражение лица с этого эмоута."
     },
     {
         "name": "peepoDown",
-        "image": "https://cdn.frankerfacez.com/emoticon/337544/4",
+        "id": "337544",
+        "type": "ffz",
         "description": "Растроенный пипо"
     },
     {
         "name": "peepoFriendship",
-        "image": "https://cdn.frankerfacez.com/emoticon/551070/4",
+        "id": "551070",
+        "type": "ffz",
         "description": "Пипо который нашёл себе друга"
     },
     {
         "name": "peepoIgnore",
-        "image": "https://cdn.frankerfacez.com/emoticon/351677/4",
+        "id": "351677",
+        "type": "ffz",
         "description": "Отвернувшийся от чата пипо, используется когда вас игнорируют,"
     },
     {
         "name": "peepoLove",
-        "image": "https://cdn.frankerfacez.com/emoticon/250614/4",
+        "id": "250614",
+        "type": "ffz",
         "description": "Пипо с сердцем, используйте что бы показать что вы кого-то людите"
     },
     {
         "name": "peepoS",
-        "image": "https://cdn.frankerfacez.com/emoticon/228448/4",
+        "id": "228448",
+        "type": "ffz",
         "description": "Испуганный пипо, используйте когда вам страшно"
     },
     {
         "name": "peepoWTF",
-        "image": "https://cdn.frankerfacez.com/emoticon/267880/4",
+        "id": "267880",
+        "type": "ffz",
         "description": "Разозлённый пипо, используйте что бы выразить своё недовольство. Например: Пвгуд, какого фига мне снизили социальный рейтинг? peepoWTF "
     },
     {
         "name": "PepeA",
-        "image": "https://cdn.frankerfacez.com/emoticon/417622/4",
+        "id": "417622",
+        "type": "ffz",
         "description": "Испуганно смотрящий пепе, используется когда происходит что-то страшное. Например: *пвгуд истерично смеётся* Пвгуд с тобой всё хорошо? PepeA"
     },
     {
         "name": "pepeLaugh",
-        "image": "https://cdn.frankerfacez.com/emoticon/341767/4",
+        "id": "341767",
+        "type": "ffz",
         "description": "Нарисованный смеющийся пепе, используется когда кто-то что-то не знает, или что бы посмеятся над кем-то"
     },
     {
         "name": "VaN",
-        "image": "https://cdn.frankerfacez.com/emoticon/419451/4",
+        "id": "419451",
+        "type": "ffz",
         "description": "Лицо Вана Даркхолма из гачимучи, используется при его упоминании"
     },
     {
         "name": "WeebsOut",
-        "image": "https://cdn.frankerfacez.com/emoticon/414791/4",
+        "id": "414791",
+        "type": "ffz",
         "description": "Пипо с табличкой призывающей уйти виабушникам, или же анимешникам. Используется когда появляется кто-то или что-то анимешное в чате или на стриме"
     },
     {
         "name": "widepeepoSad",
-        "image": "https://cdn.frankerfacez.com/emoticon/303899/4",
+        "id": "303899",
+        "type": "ffz",
         "description": "Длинная версия peepoSad'а, используйте когда вам очень грустно"
     },
     {
         "name": "YEP",
-        "image": "https://cdn.frankerfacez.com/emoticon/614425/4",
+        "id": "614425",
+        "type": "ffz",
         "description": "Okayga названная YEP, опять же эмоут назван специально как другой эмоут, но смысл у них похожий. Назван он так, из-за того что оригинальный YEP русское комьюнити сликом оверюзило. Используется когда вы видите или упоминается пенис"
     }
 ]
